@@ -1,2 +1,2 @@
-<img width="180px" style="border-radius: 50%" src="./assets/scenery.jpg"/>
-<p>小c星</p>
+<img width="180px" style="border-radius: 50%" bor src="./assets/fat.jpg">
+<p>小c星的世界</p>
