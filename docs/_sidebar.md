@@ -1,7 +1,10 @@
-* [首页](/)
+* [首页](./README.md)
 * 技术类
  * [web安全](articles/technical/t1.md)
  * [js继承](articles/technical/t2.md)
  * [手写MVVM](articles/technical/t3.md)
  * [js动画](articles/technical/t4.md)
  * [js引擎](articles/technical/t5.md)
+ * [函数式编程](articles/technical/t6.md) 
+ * [css三栏式布局](articles/technical/t7.md)
+ * [微前端](articles/technical/t8.md)
