@@ -2,14 +2,31 @@
 <html lang="en">
 <head>
   <meta charset="UTF-8">
-  <title>小c星的世界</title>
+  <title>星寻记</title>
   <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1" />
   <meta name="description" content="Description">
   <meta name="viewport" content="width=device-width, initial-scale=1.0, minimum-scale=1.0">
+
+  <!-- 样式文件 -->
+  <link rel="stylesheet" href="//cdn.jsdelivr.net/npm/docsify@4/lib/themes/vue.css">
+  <!-- <link rel="stylesheet" href="../docs/style/vue.css">  -->
+  <!--  -->
+
+  <!-- 设置网站图标 -->
   <link rel="icon" href="../docs/assets/logo.ico" type="image/x-icon"/>
   <link rel="shortcut icon" href="../docs/assets/logo.ico">
   <link rel="Bookmark" href="../docs/assets/logo.ico">
-  <link rel="stylesheet" href="//cdn.jsdelivr.net/npm/docsify@4/lib/themes/vue.css">
+  <!---->
+
+  <!-- 代码高亮 -->
+  <!-- <script src="//unpkg.com/docsify"></script>
+  <script src="//unpkg.com/prismjs/components/prism-bash.js"></script>
+  <script src="//unpkg.com/prismjs/components/prism-php.js"></script> -->
+  <!---->
+
+  <!-- 评论系统 -->
+  <link rel="stylesheet" href="//cdn.jsdelivr.net/npm/gitalk/dist/gitalk.css">
+  <!---->
 </head>
 <body>
   <div id="app">请稍等,小编在拼命中!</div>
@@ -21,11 +38,40 @@
       loadNavbar: false,
       loadSidebar: true,
       subMaxLevel: 2,
-      // repo: 'http://cai_xin_ya.gitee.io/docsify',
-      // repo: 'https://13160692449.github.io/docsify/'
+      repo: 'https://13160692449.github.io/docsify/',
+      // repo: 'http://cai_xin_ya.gitee.io/docsify/#/'
+      copyCode: {
+        buttonText : '点击复制',
+        errorText  : '错误',
+        successText: '复制'
+      }
     }
   </script>
+
   <!-- Docsify v4 -->
   <script src="//cdn.jsdelivr.net/npm/docsify@4"></script>
+  <!-- <script src="../docs/js/docsify-v4.js"></script> -->
+  <!-- 粘贴板 -->
+  <script src="//cdn.jsdelivr.net/npm/docsify-copy-code"></script>
+  <!-- <script src="../docs/js/docsify-copy-code.js"></script> -->
+  <!---->
+
+  <!-- 评论脚本 -->
+  <script src="//cdn.jsdelivr.net/npm/docsify/lib/plugins/gitalk.min.js"></script>
+  <script src="//cdn.jsdelivr.net/npm/gitalk/dist/gitalk.min.js"></script>
+  <!-- <script src="../docs/js/gitalk.min.js"></script> -->
+  <!-- <script src="../docs/js/dgitalk.min.js"></script> -->
+  <script>
+    const gitalk = new Gitalk({
+      clientID: 'b8303ee26722dd8f652b',
+      clientSecret: 'Github Application Client Secret',
+      repo: 'Github repo',
+      owner: 'Github repo owner',
+      admin: ['Github repo collaborators, only these guys can initialize github issues'],
+      // facebook-like distraction free mode
+      distractionFreeMode: false
+    })
+  </script>
+  <!--  -->
 </body>
 </html>
