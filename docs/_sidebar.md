@@ -1,4 +1,10 @@
 * [首页](./README.md)
+* 生活类
+ * [习惯建议](articles/life/l1.md)
+ * [学习的理解](articles/life/l2.md)
+* 阅读总结类
+ * [小狗钱钱](articles/read/r1.md)
+ * [如何掌控自己的时间和生活](articles/read/r2.md)
 * 技术类
  * [web安全](articles/technical/t1.md)
  * [js继承](articles/technical/t2.md)
@@ -8,3 +14,4 @@
  * [函数式编程](articles/technical/t6.md) 
  * [css三栏式布局](articles/technical/t7.md)
  * [微前端](articles/technical/t8.md)
+ * [js数组](articles/technical/t9.md)
