@@ -16,3 +16,6 @@
  * [微前端](articles/technical/t8.md)
  * [js数组](articles/technical/t9.md)
  * [正则表达式](articles/technical/t10.md)
+ * [js深浅拷贝](articles/technical/t11.md)
+ <!-- * 古灵精怪
+ * [元素周期表](https://ptable.com/#%E6%80%A7%E8%B3%AA) -->
