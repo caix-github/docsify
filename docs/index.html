@@ -10,6 +10,11 @@
   <!-- 样式文件 -->
   <link rel="stylesheet" href="//cdn.jsdelivr.net/npm/docsify@4/lib/themes/vue.css">
   <!-- <link rel="stylesheet" href="../docs/style/vue.css">  -->
+  <!-- Theme: Simple  -->
+  <!-- <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/docsify-themeable@0/dist/css/theme-simple.css"> -->
+  <!-- Theme: Simple Dark -->
+  <!-- <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/docsify-themeable@0/dist/css/theme-simple-dark.css"> -->
+
   <!--  -->
 
   <!-- 加载条样式 -->
@@ -31,6 +36,7 @@
   <!-- 评论系统 -->
   <link rel="stylesheet" href="//cdn.jsdelivr.net/npm/gitalk/dist/gitalk.css">
   <!---->
+
 </head>
 <body>
   <!-- <div class="sk-cube-grid">
@@ -55,6 +61,7 @@
       coverpage: true,
       loadNavbar: false,
       loadSidebar: true,
+      notFoundPage: true,
       subMaxLevel: 2,
       // 粘贴板
       copyCode: {
@@ -68,6 +75,12 @@
         fontsize:'0.9em',
         color:'rgb(90,90,90)',
         language:'chinese'
+      },
+      // 搜索框
+      search: {
+        paths: 'auto',
+        placeholder: 'Search',
+        noData: 'No Results!',
       }
     }
   </script>
@@ -110,6 +123,10 @@
 
   <!-- 字数统计 -->
   <script src="//unpkg.com/docsify-count/dist/countable.js"></script>
+  <!--  -->
+
+  <!-- 搜索框 -->
+  <script src="//unpkg.com/docsify/lib/plugins/search.js"></script>
   <!--  -->
 </body>
 </html>
