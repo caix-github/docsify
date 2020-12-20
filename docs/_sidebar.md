@@ -2,6 +2,9 @@
 * 生活类
     * [习惯建议](articles/life/l1.md)
     * [学习的理解](articles/life/l2.md)
+    * [dobby记](articles/life/l3.md)
+    * [鼠鼠记](articles/life/l4.md)
+    * [荷兰猪记](articles/life/l5.md)
 * 阅读总结类
     * [小狗钱钱](articles/read/r1.md)
     * [如何掌控自己的时间和生活](articles/read/r2.md)
@@ -19,3 +22,4 @@
     * [js深浅拷贝](articles/technical/t11.md)
 * 古灵精怪
     * [一期](articles/fun/f1.md)
+    * [二期](articles/fun/f2.md)
