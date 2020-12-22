@@ -20,6 +20,7 @@
     * [js数组](articles/technical/t9.md)
     * [正则表达式](articles/technical/t10.md)
     * [js深浅拷贝](articles/technical/t11.md)
+    * [JS数组奇巧淫技](articles/technical/t12.md)
 * 古灵精怪
     * [一期](articles/fun/f1.md)
     * [二期](articles/fun/f2.md)
