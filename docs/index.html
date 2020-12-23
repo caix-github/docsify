@@ -6,6 +6,11 @@
   <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1" />
   <meta name="description" content="Description">
   <meta name="viewport" content="width=device-width, initial-scale=1.0, minimum-scale=1.0">
+  <!-- 设置网站图标 -->
+  <link rel="icon" href="../docs/assets/logo.ico">
+  <link rel="shortcut icon" href="../docs/assets/logo.ico">
+  <link rel="Bookmark" href="../docs/assets/logo.ico">
+  <!---->
 
   <!-- 样式文件 -->
   <link rel="stylesheet" href="//cdn.jsdelivr.net/npm/docsify@4/lib/themes/vue.css">
@@ -20,12 +25,6 @@
   <!-- 加载条样式 -->
   <!-- <link rel="stylesheet" type="text/css" href="../docs/style/loading.css"> -->
   <!--  -->
-
-  <!-- 设置网站图标 -->
-  <link rel="icon" href="../docs/assets/logo.ico" type="image/x-icon"/>
-  <link rel="shortcut icon" href="../docs/assets/logo.ico">
-  <link rel="Bookmark" href="../docs/assets/logo.ico">
-  <!---->
 
   <!-- 代码高亮 -->
   <!-- <script src="//unpkg.com/docsify"></script>
@@ -55,14 +54,15 @@
   </div>
   <script>
     window.$docsify = {
-      name: '星寻记',
-      repo: 'https://13160692449.github.io/docsify/',
+      name: '星寻记', // 网站名称
+      repo: 'https://13160692449.github.io/docsify/', // github链接
       // repo: 'http://cai_xin_ya.gitee.io/docsify/#/'
-      coverpage: true,
-      loadNavbar: false,
-      loadSidebar: true,
-      notFoundPage: true,
-      subMaxLevel: 3,
+      coverpage: true, // 设置封面
+      loadNavbar: false, // 隐藏导航栏
+      loadSidebar: true, // 加载侧边栏
+      notFoundPage: true, // 404页面
+      auto2top: true, // 回到顶部
+      subMaxLevel: 3, // 侧边栏层级
       // 粘贴板
       copyCode: {
         buttonText : '点击复制',
@@ -99,6 +99,7 @@
   <!-- <script src="../docs/js/gitalk.min.js"></script> -->
   <!-- <script src="../docs/js/dgitalk.min.js"></script> -->
   <script>
+    // gitalk评论区
     const gitalk = new Gitalk({
       clientID: 'ebac8115e3c573fd0a69',
       clientSecret: '1b182b46296f690e7d178867a0ee5ecf31bd9000',
