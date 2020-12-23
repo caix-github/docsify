@@ -26,3 +26,4 @@
     * [一期](articles/fun/f1.md)
     * [二期](articles/fun/f2.md)
     * [三期](articles/fun/f3.md)
+    * [四期](articles/fun/f4.md)
