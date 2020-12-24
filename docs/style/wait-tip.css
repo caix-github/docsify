@@ -1,0 +1,27 @@
+.rotate-animate {
+  border: 4px solid #f3f3f3;
+  border-radius: 50%;
+  border-top: 4px solid #2842d8;
+  width: 20px;
+  height: 20px;
+  animation: rotate 2s linear infinite;
+}
+
+.rotate-animate.fill-color {
+  margin: 0 10px;
+  border-color: #2842d8 #d1b516 #cf4928 #27c965;
+}
+
+@keyframes rotate{
+  0%{
+    transform: rotate(0deg);
+  }
+  100%{
+    transform:rotate(360deg);
+  }
+}
+.wait-tip {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
