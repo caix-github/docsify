@@ -7,7 +7,8 @@
     * [荷兰猪记](articles/life/l5.md)
     * [聊聊技术人员如何学习成长](articles/life/l6.md)
     * [2021年，我的几点小建议](articles/life/l7.md)
-* 阅读总结类
+    * [2020个人总结](articles/life/l8.md)
+* 阅读类
     * [小狗钱钱](articles/read/r1.md)
     * [如何掌控自己的时间和生活](articles/read/r2.md)
 * 技术类
