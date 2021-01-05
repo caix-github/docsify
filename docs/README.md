@@ -1,6 +1,8 @@
 # 学如乘舟，不进则退
 ---
-<img bor src="./assets/scenery.jpg">
+
+![学如乘舟，不进则退](./assets/scenery.jpg)
+
 
 学习这件事，只是一种熟能生巧的简单技术
 
@@ -24,3 +26,4 @@
 5.  保持刻意
 一定要集中注意力
 
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=13160692449&show_icons=true&count_private=true&theme=tokyonight&locale=cn)](https://github.com/anuraghazra/github-readme-stats)
