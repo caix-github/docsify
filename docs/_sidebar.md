@@ -29,6 +29,7 @@
     * [11个JS小技巧](articles/technical/t15.md)
     * [Set 与 WeakSet](articles/technical/t16.md)
     * [SCSS语法](articles/technical/t17.md)
+    * [前端开发，2021这几个变化趋势](articles/technical/t18.md)
 * 古灵精怪
     * [一期](articles/fun/f1.md)
     * [二期](articles/fun/f2.md)
