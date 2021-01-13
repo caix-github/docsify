@@ -26,4 +26,4 @@
 5.  保持刻意
 一定要集中注意力
 
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=13160692449&show_icons=true&count_private=true&theme=tokyonight&locale=cn)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=13160692449&show_icons=true&count_private=true&theme=tokyonight&locale=cn&include_all_commits=false)]()
