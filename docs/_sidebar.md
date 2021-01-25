@@ -8,6 +8,7 @@
     * [聊聊技术人员如何学习成长](articles/life/l6.md)
     * [2021年，我的几点小建议](articles/life/l7.md)
     * [2020个人总结](articles/life/l8.md)
+    * [停止内耗，做有用的事](articles/life/l9.md)
 * 阅读类
     * [小狗钱钱](articles/read/r1.md)
     * [如何掌控自己的时间和生活](articles/read/r2.md)
