@@ -1,7 +1,7 @@
 # 学如乘舟，不进则退
 ---
 
-![学如乘舟，不进则退](./assets/scenery.jpg)
+![学如乘舟，不进则退](//cdn.jsdelivr.net/gh/13160692449/pics-storage/scenery.jpg)
 
 
 学习这件事，只是一种熟能生巧的简单技术
