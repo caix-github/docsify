@@ -38,3 +38,4 @@
     * [三期](articles/fun/f3.md)
     * [四期](articles/fun/f4.md)
     * [五期](articles/fun/f5.md)
+    * [六期](articles/fun/f6.md)
