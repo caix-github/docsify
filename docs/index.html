@@ -66,6 +66,10 @@
   <!-- 评论系统 -->
   <link rel="stylesheet" type="text/css" href="//cdn.jsdelivr.net/npm/gitalk/dist/gitalk.css">
   <!---->
+
+  <!-- 夜间模式 -->
+  <link rel="stylesheet" href="//cdn.jsdelivr.net/npm/docsify-dark-mode@latest/dist/style.min.css">
+  <!---->
 </head>
 <body>
   <div id="app">
@@ -79,6 +83,18 @@
       name: '星寻记', // 网站名称
       //repo: 'http://caix.fun/', // github链接
       // repo: 'http://cai_xin_ya.gitee.io/docsify/#/'
+      darkMode: {
+        dark: {
+          background: "#1c2022",
+          toggleBtnBg: "#34495e",
+          textColor: "#b4b4b4"
+        },
+        light: {
+          background: "white",
+          toggleBtnBg: "var(--theme-color)",
+          textColor: "var(--theme-color)"
+        }
+      },
       themeColor: '#25798A',
       coverpage: true,
       loadNavbar: false,
@@ -97,7 +113,8 @@
         countable:true,
         fontsize:'0.9em',
         color:'rgb(90,90,90)',
-        language:'chinese'
+        language:'chinese',
+        float: 'left'
       },
       // 搜索框
       search: {
@@ -151,6 +168,10 @@
 
   <!-- 搜索框 -->
   <script src="//unpkg.com/docsify/lib/plugins/search.js"></script>
+  <!--  -->
+
+  <!-- 夜间模式 -->
+  <script src="//cdn.jsdelivr.net/npm/docsify-dark-mode@latest/dist/index.min.js"></script>
   <!--  -->
 </body>
 </html>
