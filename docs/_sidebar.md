@@ -9,6 +9,8 @@
     * [2021年，我的几点小建议](articles/life/l7.md)
     * [2020个人总结](articles/life/l8.md)
     * [停止内耗，做有用的事](articles/life/l9.md)
+    * [新年找回自信的自己](articles/life/l10.md)
+    * [为什么你的新年目标通常都很难完成](articles/life/l11.md)
 * 阅读类
     * [小狗钱钱](articles/read/r1.md)
     * [如何掌控自己的时间和生活](articles/read/r2.md)
