@@ -42,3 +42,4 @@
     * [四期](articles/fun/f4.md)
     * [五期](articles/fun/f5.md)
     * [六期](articles/fun/f6.md)
+    * [七期](articles/fun/f7.md)
