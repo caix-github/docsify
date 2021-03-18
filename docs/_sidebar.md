@@ -12,6 +12,8 @@
     * [新年找回自信的自己](articles/life/l10.md)
     * [为什么你的新年目标通常都很难完成](articles/life/l11.md)
     * [如何保养好大脑](articles/life/l12.md)
+    * [程序员成长路线](articles/life/l13.md)
+* 阅读类
 * 阅读类
     * [小狗钱钱](articles/read/r1.md)
     * [如何掌控自己的时间和生活](articles/read/r2.md)
