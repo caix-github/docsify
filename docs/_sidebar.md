@@ -45,3 +45,4 @@
     * [五期](articles/fun/f5.md)
     * [六期](articles/fun/f6.md)
     * [七期](articles/fun/f7.md)
+    * [八期](articles/fun/f8.md)
