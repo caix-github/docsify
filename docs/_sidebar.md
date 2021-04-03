@@ -6,16 +6,14 @@
     * [鼠鼠记](articles/life/l4.md)
     * [荷兰猪记](articles/life/l5.md)
     * [聊聊技术人员如何学习成长](articles/life/l6.md)
-    * [2021年，我的几点小建议](articles/life/l7.md)
     * [2020个人总结](articles/life/l8.md)
+    * [2021年，我的几点小建议](articles/life/l7.md)
     * [停止内耗，做有用的事](articles/life/l9.md)
     * [新年找回自信的自己](articles/life/l10.md)
     * [为什么你的新年目标通常都很难完成](articles/life/l11.md)
     * [如何保养好大脑](articles/life/l12.md)
     * [程序员成长路线](articles/life/l13.md)
-* 阅读类
-    * [小狗钱钱](articles/read/r1.md)
-    * [如何掌控自己的时间和生活](articles/read/r2.md)
+    * [用最简单的方法养成读书的好习惯](articles/life/l14.md)
 * 技术类
     * [web安全](articles/technical/t1.md)
     * [js继承](articles/technical/t2.md)
