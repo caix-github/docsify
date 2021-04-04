@@ -44,3 +44,4 @@
     * [六期](articles/fun/f6.md)
     * [七期](articles/fun/f7.md)
     * [八期](articles/fun/f8.md)
+    * [九期](articles/fun/f9.md)
