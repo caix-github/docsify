@@ -14,6 +14,7 @@
     * [如何保养好大脑](articles/life/l12.md)
     * [程序员成长路线](articles/life/l13.md)
     * [用最简单的方法养成读书的好习惯](articles/life/l14.md)
+    * [前端专家离你只有一步之遥](articles/life/l15.md)
 * 技术类
     * [web安全](articles/technical/t1.md)
     * [js继承](articles/technical/t2.md)
