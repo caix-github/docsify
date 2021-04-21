@@ -36,6 +36,7 @@
     * [前端开发，2021这几个变化趋势](articles/technical/t18.md)
     * [v3新特性](articles/technical/t19.md)
     * [webfunny监控系统的测试实践](articles/technical/t20.md)
+    * [前端浏览器缓存知识](articles/technical/t21.md)
 * 古灵精怪
     * [一期](articles/fun/f1.md)
     * [二期](articles/fun/f2.md)
