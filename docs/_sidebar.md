@@ -1,3 +1,11 @@
+<!--
+ * @Author: caixin
+ * @Date: 2021-06-10 10:06:40
+ * @LastEditTime: 2021-06-10 10:32:09
+ * @LastEditors: Please set LastEditors
+ * @Description: 修改目录
+ * @FilePath: \docsify\docs\_sidebar.md
+-->
 * [首页](./README.md)
 * 生活类
     * [习惯建议](articles/life/l1.md)
@@ -50,3 +58,4 @@
     * [九期](articles/fun/f9.md)
     * [十期](articles/fun/f10.md)
     * [十一期](articles/fun/f11.md)
+    * [十二期](articles/fun/f12.md)
