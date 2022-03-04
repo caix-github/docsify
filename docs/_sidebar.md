@@ -1,7 +1,7 @@
 <!--
  * @Author: caixin
  * @Date: 2021-06-10 10:06:40
- * @LastEditTime: 2022-01-11 11:05:08
+ * @LastEditTime: 2022-03-04 13:59:59
  * @LastEditors: Please set LastEditors
  * @Description: 修改目录
  * @FilePath: \docsify\docs\_sidebar.md
@@ -46,6 +46,7 @@
   - [v3 新特性](articles/technical/t19.md)
   - [webfunny 监控系统的测试实践](articles/technical/t20.md)
   - [前端浏览器缓存知识](articles/technical/t21.md)
+  - [Webpack Bundle Analyzer包分析器](articles/technical/t22.md)
 - 古灵精怪
   - [一期](articles/fun/f1.md)
   - [二期](articles/fun/f2.md)
