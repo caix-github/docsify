@@ -1,8 +1,8 @@
 <!--
  * @Author: caixin
  * @Date: 2021-06-10 10:06:40
- * @LastEditTime: 2022-03-04 13:59:59
- * @LastEditors: Please set LastEditors
+ * @LastEditTime: 2022-08-08 15:00:04
+ * @LastEditors: 蔡鑫 1058360098@qq.com
  * @Description: 修改目录
  * @FilePath: \docsify\docs\_sidebar.md
 -->
@@ -64,3 +64,4 @@
   - [十四期](articles/fun/f14.md)
   - [十五期](articles/fun/f15.md)
   - [十六期](articles/fun/f16.md)
+  - [十七期](articles/fun/f17.md)
