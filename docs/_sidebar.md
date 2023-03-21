@@ -1,13 +1,13 @@
 <!--
  * @Author: caixin
  * @Date: 2021-06-10 10:06:40
- * @LastEditTime: 2022-08-29 16:11:28
+ * @LastEditTime: 2023-03-21 15:53:41
  * @LastEditors: 蔡鑫 1058360098@qq.com
  * @Description: 修改目录
  * @FilePath: \docsify\docs\_sidebar.md
 -->
 - [首页](./README.md)
-- 生活类
+<!-- - 生活类
   - [习惯建议](articles/life/l1.md)
   - [学习的理解](articles/life/l2.md)
   - [dobby 记](articles/life/l3.md)
@@ -23,7 +23,7 @@
   - [程序员成长路线](articles/life/l13.md)
   - [用最简单的方法养成读书的好习惯](articles/life/l14.md)
   - [前端专家离你只有一步之遥](articles/life/l15.md)
-  <!-- * [前端专家离你只有一步之遥](articles/life/l15.md) -->
+  - [前端专家离你只有一步之遥](articles/life/l15.md) -->
 - 技术类
   - [web 安全](articles/technical/t1.md)
   - [js 继承](articles/technical/t2.md)
@@ -47,6 +47,9 @@
   - [webfunny 监控系统的测试实践](articles/technical/t20.md)
   - [前端浏览器缓存知识](articles/technical/t21.md)
   - [Webpack Bundle Analyzer包分析器](articles/technical/t22.md)
+<!-- - 阅读心得
+- 美食天地
+- 户外旅行 -->
 - 古灵精怪
   - [一期](articles/fun/f1.md)
   - [二期](articles/fun/f2.md)
