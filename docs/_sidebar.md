@@ -47,9 +47,6 @@
   <!-- - [webfunny 监控系统的测试实践](articles/technical/t20.md) -->
   - [前端浏览器缓存知识](articles/technical/t21.md)
   - [Webpack Bundle Analyzer包分析器](articles/technical/t22.md)
-<!-- - 阅读心得
-- 美食天地
-- 户外旅行 -->
 - 闲话散集
   - [我的挂耳咖啡](articles/poems/p1.md)
   - [茫茫然](articles/poems/p2.md)
@@ -75,3 +72,6 @@
   - [十七期](articles/fun/f17.md)
   - [十八期](articles/fun/f18.md)
   - [十九期](articles/fun/f19.md)
+- 阅读心得
+- 美食天地
+- 户外旅行
