@@ -1,7 +1,7 @@
 <!--
  * @Author: caixin
  * @Date: 2021-06-10 10:06:40
- * @LastEditTime: 2023-03-21 15:53:41
+ * @LastEditTime: 2023-03-22 14:55:32
  * @LastEditors: 蔡鑫 1058360098@qq.com
  * @Description: 修改目录
  * @FilePath: \docsify\docs\_sidebar.md
@@ -25,7 +25,7 @@
   - [前端专家离你只有一步之遥](articles/life/l15.md)
   - [前端专家离你只有一步之遥](articles/life/l15.md) -->
 - 技术类
-  - [web 安全](articles/technical/t1.md)
+  <!-- - [web 安全](articles/technical/t1.md) -->
   - [js 继承](articles/technical/t2.md)
   - [手写 MVVM](articles/technical/t3.md)
   - [js 动画](articles/technical/t4.md)
@@ -42,14 +42,19 @@
   - [11 个 JS 小技巧](articles/technical/t15.md)
   - [Set 与 WeakSet](articles/technical/t16.md)
   - [SCSS 语法](articles/technical/t17.md)
-  - [前端开发，2021 这几个变化趋势](articles/technical/t18.md)
+  <!-- - [前端开发，2021 这几个变化趋势](articles/technical/t18.md) -->
   - [v3 新特性](articles/technical/t19.md)
-  - [webfunny 监控系统的测试实践](articles/technical/t20.md)
+  <!-- - [webfunny 监控系统的测试实践](articles/technical/t20.md) -->
   - [前端浏览器缓存知识](articles/technical/t21.md)
   - [Webpack Bundle Analyzer包分析器](articles/technical/t22.md)
 <!-- - 阅读心得
 - 美食天地
 - 户外旅行 -->
+- 闲话散集
+  - [我的挂耳咖啡](articles/poems/p1.md)
+  - [茫茫然](articles/poems/p2.md)
+  - [做自己](articles/poems/p3.md)
+  - [堕](articles/poems/p4.md)
 - 古灵精怪
   - [一期](articles/fun/f1.md)
   - [二期](articles/fun/f2.md)
