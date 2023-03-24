@@ -52,6 +52,7 @@
   - [茫茫然](articles/poems/p2.md)
   - [做自己](articles/poems/p3.md)
   - [堕](articles/poems/p4.md)
+  - [呐喊](articles/poems/p5.md)
 - 古灵精怪
   - [一期](articles/fun/f1.md)
   - [二期](articles/fun/f2.md)
