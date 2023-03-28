@@ -1,7 +1,7 @@
 <!--
  * @Author: caixin
  * @Date: 2021-06-10 10:06:40
- * @LastEditTime: 2023-03-22 14:55:32
+ * @LastEditTime: 2023-03-28 16:44:07
  * @LastEditors: 蔡鑫 1058360098@qq.com
  * @Description: 修改目录
  * @FilePath: \docsify\docs\_sidebar.md
@@ -53,6 +53,9 @@
   - [做自己](articles/poems/p3.md)
   - [堕](articles/poems/p4.md)
   - [呐喊](articles/poems/p5.md)
+  - [光](articles/poems/p6.md)
+  - [囚](articles/poems/p7.md)
+  - [断舍离](articles/poems/p8.md)
 - 古灵精怪
   - [一期](articles/fun/f1.md)
   - [二期](articles/fun/f2.md)
