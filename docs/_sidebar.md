@@ -56,6 +56,7 @@
   - [光](articles/poems/p6.md)
   - [囚](articles/poems/p7.md)
   - [断舍离](articles/poems/p8.md)
+  - [耗](articles/poems/p9.md)
 - 古灵精怪
   - [一期](articles/fun/f1.md)
   - [二期](articles/fun/f2.md)
