@@ -78,5 +78,6 @@
   - [十八期](articles/fun/f18.md)
   - [十九期](articles/fun/f19.md)
 - 阅读心得
+  - [组件化之抽象思维](articles/read/r1.md)
 - 美食天地
 - 户外旅行
