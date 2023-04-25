@@ -22,7 +22,6 @@
   - [如何保养好大脑](articles/life/l12.md)
   - [程序员成长路线](articles/life/l13.md)
   - [用最简单的方法养成读书的好习惯](articles/life/l14.md)
-  - [前端专家离你只有一步之遥](articles/life/l15.md)
   - [前端专家离你只有一步之遥](articles/life/l15.md) -->
 - 技术汇总
   <!-- - [web 安全](articles/technical/t1.md) -->
@@ -78,7 +77,9 @@
   - [十七期](articles/fun/f17.md)
   - [十八期](articles/fun/f18.md)
   - [十九期](articles/fun/f19.md)
+  - [二十期](articles/fun/f20.md)
 - 阅读心得
   - [组件化之抽象思维](articles/read/r1.md)
 - 美食天地
 - 户外旅行
+  - [团建之百草园](articles/journey/j1.md)
