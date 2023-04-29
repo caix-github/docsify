@@ -1,8 +1,8 @@
 <!--
  * @Author: caixin
  * @Date: 2021-06-10 10:06:40
- * @LastEditTime: 2023-03-28 16:44:07
- * @LastEditors: 蔡鑫 1058360098@qq.com
+ * @LastEditTime: 2023-04-29 18:06:09
+ * @LastEditors: caixin 1058360098@qq.com
  * @Description: 修改目录
  * @FilePath: \docsify\docs\_sidebar.md
 -->
@@ -81,5 +81,10 @@
 - 阅读心得
   - [组件化之抽象思维](articles/read/r1.md)
 - 美食天地
+  - [20220920饮食清单](articles/delicacy/d1.md)
+  - [20221230饮食清单](articles/delicacy/d2.md)
+  - [20230108饮食清单](articles/delicacy/d3.md)
+  - [20230203饮食清单](articles/delicacy/d4.md)
+  - [20230409饮食清单](articles/delicacy/d5.md)
 - 户外旅行
   - [团建之百草园](articles/journey/j1.md)
