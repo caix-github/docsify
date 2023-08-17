@@ -1,8 +1,8 @@
 <!--
  * @Author: caixin
  * @Date: 2021-06-10 10:06:40
- * @LastEditTime: 2023-04-29 18:06:09
- * @LastEditors: caixin 1058360098@qq.com
+ * @LastEditTime: 2023-08-17 15:45:17
+ * @LastEditors: 蔡鑫 1058360098@qq.com
  * @Description: 修改目录
  * @FilePath: \docsify\docs\_sidebar.md
 -->
@@ -80,7 +80,7 @@
   - [二十期](articles/fun/f20.md)
   - [二十一期](articles/fun/f21.md)
 - 阅读心得
-  - [组件化之抽象思维](articles/read/r1.md)
+  - [《程序员底层思维》观后感](articles/read/r1.md)
 - 美食天地
   - [20220920饮食清单](articles/delicacy/d1.md)
   - [20221230饮食清单](articles/delicacy/d2.md)
