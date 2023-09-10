@@ -4,19 +4,33 @@
     "type": "split",
     "children": [
       {
-        "id": "e687109a938a3d8c",
+        "id": "948dbeb3d35e4e3b",
         "type": "tabs",
         "children": [
           {
-            "id": "cabf381e6f0f4873",
+            "id": "6731439dc7fa73ec",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "drafts/origin/带团队，最容易犯的4个致命错误！.md",
+                "file": "drafts/origin/9件小事，让我减少了“内耗”.md",
                 "mode": "source",
                 "source": false
               }
+            }
+          }
+        ]
+      },
+      {
+        "id": "a1323295cac08f43",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "d1dfdbb362ce3f3c",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -85,7 +99,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "drafts/origin/带团队，最容易犯的4个致命错误！.md",
+                "file": "drafts/origin/9件小事，让我减少了“内耗”.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +116,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "drafts/origin/带团队，最容易犯的4个致命错误！.md",
+                "file": "drafts/origin/9件小事，让我减少了“内耗”.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +139,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "drafts/origin/带团队，最容易犯的4个致命错误！.md"
+                "file": "drafts/origin/9件小事，让我减少了“内耗”.md"
               }
             }
           }
@@ -146,8 +160,19 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "cabf381e6f0f4873",
+  "active": "6731439dc7fa73ec",
   "lastOpenFiles": [
+    "drafts/information/社会.md",
+    "drafts/origin/6张哲理图告诉你，人与人的差距是怎样拉开的.md",
+    "drafts/information/成长.md",
+    "drafts/information/情感.md",
+    "drafts/origin/「我还爱你，但不再喜欢你」有些关系的终结，始于这种感觉的缺席.md",
+    "drafts/origin/“想”和“做”的区别，才是人生的差别！.md",
+    "drafts/information/技巧.md",
+    "drafts/origin/带团队，最容易犯的4个致命错误！.md",
+    "articles/fun/f23.md",
+    "TIP.md",
+    "tip.md",
     "drafts/origin/成年人的朋友圈：大胆筛选，别怕走散.md",
     "drafts/origin/常说这3个字，说明你心理正在崩溃.md",
     "drafts/origin/不再无效焦虑的3个方法.md",
@@ -155,19 +180,12 @@
     "drafts/origin/别傻了，越稳定的工作，越有毒.md",
     "drafts/origin/不想再“选错人生”，一文教会你「梳理出自己的幸福观」.md",
     "drafts/origin/别拿自己的尺子，丈量别人的生活.md",
-    "drafts/origin/「我还爱你，但不再喜欢你」有些关系的终结，始于这种感觉的缺席.md",
-    "drafts/origin/6张哲理图告诉你，人与人的差距是怎样拉开的.md",
-    "drafts/origin/“想”和“做”的区别，才是人生的差别！.md",
-    "drafts/information/成长.md",
     "articles/fun/f22.md",
-    "drafts/information/技巧.md",
     "drafts/origin/也许是这个时代最常见的问题.md",
     "drafts/origin/建立目标感，告别无意义的内卷.md",
     "articles/read/r1.md",
     "drafts/未命名.md",
     "drafts/origin/好的爱情，自带成长属性.md",
-    "drafts/origin/为什么越优秀的人，越享受无聊？.md",
-    "drafts/read/逆向思维.md",
-    "articles/未命名.md"
+    "drafts/origin/为什么越优秀的人，越享受无聊？.md"
   ]
 }
