@@ -4,24 +4,6 @@
     "type": "split",
     "children": [
       {
-        "id": "11605926fd5eb8a8",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "a7c49febf21652cf",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "drafts/origin/不想再“选错人生”，一文教会你「梳理出自己的幸福观」.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          }
-        ]
-      },
-      {
         "id": "1ddfe1201c1c47d4",
         "type": "tabs",
         "children": [
@@ -31,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "drafts/information/社会.md",
+                "file": "drafts/origin/不想再“选错人生”，一文教会你「梳理出自己的幸福观」.md",
                 "mode": "source",
                 "source": false
               }
@@ -174,15 +156,15 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "a7c49febf21652cf",
+  "active": "5e291eb6682ea49a",
   "lastOpenFiles": [
     "drafts/information/社会.md",
-    "drafts/origin/不想再“选错人生”，一文教会你「梳理出自己的幸福观」.md",
-    "drafts/information/成长.md",
-    "drafts/origin/别傻了，越稳定的工作，越有毒.md",
-    "drafts/origin/别拿自己的尺子，丈量别人的生活.md",
     "drafts/information/情感.md",
     "drafts/information/健康.md",
+    "drafts/information/成长.md",
+    "drafts/origin/不想再“选错人生”，一文教会你「梳理出自己的幸福观」.md",
+    "drafts/origin/别傻了，越稳定的工作，越有毒.md",
+    "drafts/origin/别拿自己的尺子，丈量别人的生活.md",
     "drafts/origin/9件小事，让我减少了“内耗”.md",
     "articles/technical/t16.md",
     "articles/technical/t15.md",
