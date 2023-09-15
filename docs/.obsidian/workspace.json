@@ -4,19 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "ff91a02d2fa423a8",
+        "id": "c90aae4440797ee5",
         "type": "tabs",
         "children": [
           {
-            "id": "edbb443120b35499",
+            "id": "406c8661a52c6682",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "drafts/information/成长.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -85,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "drafts/information/成长.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "drafts/information/成长.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -124,9 +118,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "drafts/information/成长.md"
-              }
+              "state": {}
             }
           },
           {
@@ -156,12 +148,13 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "edbb443120b35499",
+  "active": "406c8661a52c6682",
   "lastOpenFiles": [
+    "drafts/origin/改善我们的情绪和情感状态.md",
+    "drafts/information/成长.md",
     "drafts/information/健康.md",
     "drafts/origin/常说这3个字，说明你心理正在崩溃.md",
     "drafts/origin/不再无效焦虑的3个方法.md",
-    "drafts/information/成长.md",
     "drafts/origin/不要在别人的镜子里看自己.md",
     "drafts/information/社会.md",
     "drafts/origin/获得「容易快乐人格」的8个小tips.md",
@@ -182,7 +175,6 @@
     "articles/technical/t5.md",
     "articles/technical/t6.md",
     "articles/technical/t7.md",
-    "articles/technical/t4.md",
-    "articles/technical/t3.md"
+    "articles/technical/t4.md"
   ]
 }
