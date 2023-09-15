@@ -4,34 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "1ddfe1201c1c47d4",
+        "id": "ff91a02d2fa423a8",
         "type": "tabs",
         "children": [
           {
-            "id": "5e291eb6682ea49a",
+            "id": "edbb443120b35499",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "drafts/information/健康.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          }
-        ]
-      },
-      {
-        "id": "77d46f417927ad99",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "a2a8281fe4316189",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "drafts/origin/常说这3个字，说明你心理正在崩溃.md",
+                "file": "drafts/information/成长.md",
                 "mode": "source",
                 "source": false
               }
@@ -87,8 +69,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "82ec840a6dab24a7",
@@ -104,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "drafts/information/健康.md",
+                "file": "drafts/information/成长.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -121,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "drafts/information/健康.md",
+                "file": "drafts/information/成长.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -144,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "drafts/information/健康.md"
+                "file": "drafts/information/成长.md"
               }
             }
           },
@@ -175,10 +156,10 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "5e291eb6682ea49a",
+  "active": "edbb443120b35499",
   "lastOpenFiles": [
-    "drafts/origin/常说这3个字，说明你心理正在崩溃.md",
     "drafts/information/健康.md",
+    "drafts/origin/常说这3个字，说明你心理正在崩溃.md",
     "drafts/origin/不再无效焦虑的3个方法.md",
     "drafts/information/成长.md",
     "drafts/origin/不要在别人的镜子里看自己.md",
