@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "0526fbff0f4f0c66",
+        "id": "519b446bbec02d57",
         "type": "tabs",
         "children": [
           {
-            "id": "d0e08c7125a12495",
+            "id": "3a9d59a9de7b9b0e",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "articles/life/l2.md",
+                "file": "未命名.md",
                 "mode": "source",
                 "source": false
               }
@@ -69,7 +69,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "82ec840a6dab24a7",
@@ -85,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "articles/life/l2.md",
+                "file": "未命名.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "articles/life/l2.md",
+                "file": "未命名.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "articles/life/l2.md"
+                "file": "未命名.md"
               }
             }
           },
@@ -156,8 +157,18 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "d0e08c7125a12495",
+  "active": "3a9d59a9de7b9b0e",
   "lastOpenFiles": [
+    "drafts/information/社会.md",
+    "未命名.md",
+    "drafts/origin/改善我们的情绪和情感状态.md",
+    "drafts/information/职场.md",
+    "drafts/information/情感.md",
+    "drafts/information/健康.md",
+    "drafts/information/成长.md",
+    "drafts/origin/改变自己的终极力量.md",
+    "未命名 1.md",
+    "articles/life/l2.md",
     "articles/life/l3.md",
     "articles/life/l1.md",
     "articles/poems/p10.md",
@@ -170,19 +181,9 @@
     "articles/poems/p6.md",
     "articles/poems/p5.md",
     "articles/poems/p7.md",
-    "drafts/origin/改变自己的终极力量.md",
-    "drafts/information/健康.md",
     "drafts/origin/凡事先搞起来，就能解决80%的焦虑.md",
-    "drafts/information/情感.md",
-    "drafts/information/社会.md",
-    "drafts/information/职场.md",
-    "drafts/information/成长.md",
     "drafts/read/与朋友舒适相处的背后，都是不动声色的接纳.md",
     "drafts/read/如何掌控自己的时间和生活.md",
-    "drafts/read/如何阅读一本书.md",
-    "drafts/read/认知觉醒.md",
-    "drafts/read/简单的逻辑学.md",
-    "drafts/read/被讨厌的勇气.md",
-    "drafts/read/打开心智.md"
+    "drafts/read/如何阅读一本书.md"
   ]
 }
