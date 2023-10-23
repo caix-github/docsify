@@ -4,19 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "11605926fd5eb8a8",
+        "id": "484c33e81455eec9",
         "type": "tabs",
         "children": [
           {
-            "id": "a7c49febf21652cf",
+            "id": "4f799b379e90ec48",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "drafts/information/健康.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -48,7 +44,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "tag:#提升逻辑思维41个",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -85,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "drafts/information/健康.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "drafts/information/健康.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -124,9 +118,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "drafts/information/健康.md"
-              }
+              "state": {}
             }
           },
           {
@@ -143,7 +135,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
+    "width": 362.5,
     "collapsed": true
   },
   "left-ribbon": {
@@ -156,33 +148,33 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "a7c49febf21652cf",
+  "active": "4f799b379e90ec48",
   "lastOpenFiles": [
-    "drafts/information/成长.md",
-    "articles/technical/t16.md",
-    "articles/technical/t15.md",
-    "articles/technical/t14.md",
-    "articles/technical/t13.md",
-    "articles/technical/t12.md",
-    "articles/technical/t11.md",
-    "articles/technical/t10.md",
-    "articles/technical/t9.md",
-    "articles/technical/t8.md",
-    "articles/technical/t5.md",
-    "articles/technical/t6.md",
-    "articles/technical/t7.md",
-    "articles/technical/t4.md",
-    "articles/technical/t3.md",
-    "articles/technical/t2.md",
-    "articles/technical/t1.md",
-    "articles/technical/t22.md",
-    "articles/technical/t21.md",
-    "articles/technical/t18.md",
-    "articles/technical/t19.md",
-    "articles/technical/t20.md",
-    "drafts/information/社会.md",
+    "drafts/information/职场.md",
+    "drafts/origin/好的爱情，自带成长属性.md",
+    "drafts/information/情感.md",
+    "drafts/origin/关于职场晋升，这是我的10条具体建议.md",
+    "drafts/origin/关于男女关系，请牢记这5句话.md",
     "drafts/information/健康.md",
-    "drafts/origin/9件小事，让我减少了“内耗”.md",
-    "drafts/information/情感.md"
+    "drafts/origin/工作能力强的人，都有这10个特点.md",
+    "drafts/origin/改善我们的情绪和情感状态.md",
+    "drafts/information/成长.md",
+    "drafts/information/社会.md",
+    "未命名.md",
+    "drafts/origin/改变自己的终极力量.md",
+    "未命名 1.md",
+    "articles/life/l2.md",
+    "articles/life/l3.md",
+    "articles/life/l1.md",
+    "articles/poems/p10.md",
+    "articles/poems/p1.md",
+    "articles/poems/p2.md",
+    "articles/poems/p3.md",
+    "articles/poems/p4.md",
+    "articles/poems/p9.md",
+    "articles/poems/p8.md",
+    "articles/poems/p6.md",
+    "articles/poems/p5.md",
+    "articles/poems/p7.md"
   ]
 }
