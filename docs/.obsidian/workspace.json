@@ -4,19 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "519b446bbec02d57",
+        "id": "484c33e81455eec9",
         "type": "tabs",
         "children": [
           {
-            "id": "3a9d59a9de7b9b0e",
+            "id": "4f799b379e90ec48",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "未命名.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -69,8 +65,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "82ec840a6dab24a7",
@@ -86,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "未命名.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "未命名.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,9 +118,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "未命名.md"
-              }
+              "state": {}
             }
           },
           {
@@ -157,15 +148,19 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "3a9d59a9de7b9b0e",
+  "active": "4f799b379e90ec48",
   "lastOpenFiles": [
+    "drafts/information/职场.md",
+    "drafts/origin/好的爱情，自带成长属性.md",
+    "drafts/information/情感.md",
+    "drafts/origin/关于职场晋升，这是我的10条具体建议.md",
+    "drafts/origin/关于男女关系，请牢记这5句话.md",
+    "drafts/information/健康.md",
+    "drafts/origin/工作能力强的人，都有这10个特点.md",
+    "drafts/origin/改善我们的情绪和情感状态.md",
+    "drafts/information/成长.md",
     "drafts/information/社会.md",
     "未命名.md",
-    "drafts/origin/改善我们的情绪和情感状态.md",
-    "drafts/information/职场.md",
-    "drafts/information/情感.md",
-    "drafts/information/健康.md",
-    "drafts/information/成长.md",
     "drafts/origin/改变自己的终极力量.md",
     "未命名 1.md",
     "articles/life/l2.md",
@@ -180,10 +175,6 @@
     "articles/poems/p8.md",
     "articles/poems/p6.md",
     "articles/poems/p5.md",
-    "articles/poems/p7.md",
-    "drafts/origin/凡事先搞起来，就能解决80%的焦虑.md",
-    "drafts/read/与朋友舒适相处的背后，都是不动声色的接纳.md",
-    "drafts/read/如何掌控自己的时间和生活.md",
-    "drafts/read/如何阅读一本书.md"
+    "articles/poems/p7.md"
   ]
 }
