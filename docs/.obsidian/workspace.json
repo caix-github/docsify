@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "484c33e81455eec9",
+        "id": "9ee3ce1b261d2a69",
         "type": "tabs",
         "children": [
           {
-            "id": "4f799b379e90ec48",
+            "id": "dd5da3e38f50ca3c",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -148,17 +148,20 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "4f799b379e90ec48",
+  "active": "dd5da3e38f50ca3c",
   "lastOpenFiles": [
-    "drafts/information/职场.md",
-    "drafts/origin/好的爱情，自带成长属性.md",
+    "drafts/information/成长.md",
+    "drafts/origin/获得「容易快乐人格」的8个小tips.md",
     "drafts/information/情感.md",
+    "drafts/origin/好的爱情，自带成长属性.md",
+    "TIP.md",
+    "README.md",
+    "drafts/information/职场.md",
     "drafts/origin/关于职场晋升，这是我的10条具体建议.md",
     "drafts/origin/关于男女关系，请牢记这5句话.md",
     "drafts/information/健康.md",
     "drafts/origin/工作能力强的人，都有这10个特点.md",
     "drafts/origin/改善我们的情绪和情感状态.md",
-    "drafts/information/成长.md",
     "drafts/information/社会.md",
     "未命名.md",
     "drafts/origin/改变自己的终极力量.md",
@@ -172,9 +175,6 @@
     "articles/poems/p3.md",
     "articles/poems/p4.md",
     "articles/poems/p9.md",
-    "articles/poems/p8.md",
-    "articles/poems/p6.md",
-    "articles/poems/p5.md",
-    "articles/poems/p7.md"
+    "articles/poems/p8.md"
   ]
 }
