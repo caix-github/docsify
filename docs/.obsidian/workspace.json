@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "9ee3ce1b261d2a69",
+        "id": "1186ae963fcbbd89",
         "type": "tabs",
         "children": [
           {
-            "id": "dd5da3e38f50ca3c",
+            "id": "d6fc695899f4f982",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -148,8 +148,10 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "dd5da3e38f50ca3c",
+  "active": "d6fc695899f4f982",
   "lastOpenFiles": [
+    "articles/read/沉默.md",
+    "articles/read/r1.md",
     "drafts/information/成长.md",
     "drafts/origin/获得「容易快乐人格」的8个小tips.md",
     "drafts/information/情感.md",
@@ -173,8 +175,6 @@
     "articles/poems/p1.md",
     "articles/poems/p2.md",
     "articles/poems/p3.md",
-    "articles/poems/p4.md",
-    "articles/poems/p9.md",
-    "articles/poems/p8.md"
+    "articles/poems/p4.md"
   ]
 }
