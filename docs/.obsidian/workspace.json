@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "1186ae963fcbbd89",
+        "id": "b5db9c6ca967aed4",
         "type": "tabs",
         "children": [
           {
-            "id": "d6fc695899f4f982",
+            "id": "77a421a0a411e170",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -148,11 +148,12 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "d6fc695899f4f982",
+  "active": "77a421a0a411e170",
   "lastOpenFiles": [
-    "articles/read/沉默.md",
-    "articles/read/r1.md",
+    "drafts/origin/减少精神内耗的7件小事.md",
     "drafts/information/成长.md",
+    "articles/read/r2.md",
+    "articles/read/r1.md",
     "drafts/origin/获得「容易快乐人格」的8个小tips.md",
     "drafts/information/情感.md",
     "drafts/origin/好的爱情，自带成长属性.md",
@@ -174,7 +175,6 @@
     "articles/poems/p10.md",
     "articles/poems/p1.md",
     "articles/poems/p2.md",
-    "articles/poems/p3.md",
-    "articles/poems/p4.md"
+    "articles/poems/p3.md"
   ]
 }
