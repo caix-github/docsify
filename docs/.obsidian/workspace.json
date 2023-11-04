@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "519b446bbec02d57",
+        "id": "b5db9c6ca967aed4",
         "type": "tabs",
         "children": [
           {
-            "id": "3a9d59a9de7b9b0e",
+            "id": "77a421a0a411e170",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -65,8 +65,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "82ec840a6dab24a7",
@@ -149,15 +148,25 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "3a9d59a9de7b9b0e",
+  "active": "77a421a0a411e170",
   "lastOpenFiles": [
+    "drafts/origin/减少精神内耗的7件小事.md",
+    "drafts/information/成长.md",
+    "articles/read/r2.md",
+    "articles/read/r1.md",
+    "drafts/origin/获得「容易快乐人格」的8个小tips.md",
+    "drafts/information/情感.md",
+    "drafts/origin/好的爱情，自带成长属性.md",
+    "TIP.md",
+    "README.md",
+    "drafts/information/职场.md",
+    "drafts/origin/关于职场晋升，这是我的10条具体建议.md",
+    "drafts/origin/关于男女关系，请牢记这5句话.md",
+    "drafts/information/健康.md",
+    "drafts/origin/工作能力强的人，都有这10个特点.md",
+    "drafts/origin/改善我们的情绪和情感状态.md",
     "drafts/information/社会.md",
     "未命名.md",
-    "drafts/origin/改善我们的情绪和情感状态.md",
-    "drafts/information/职场.md",
-    "drafts/information/情感.md",
-    "drafts/information/健康.md",
-    "drafts/information/成长.md",
     "drafts/origin/改变自己的终极力量.md",
     "未命名 1.md",
     "articles/life/l2.md",
@@ -166,16 +175,6 @@
     "articles/poems/p10.md",
     "articles/poems/p1.md",
     "articles/poems/p2.md",
-    "articles/poems/p3.md",
-    "articles/poems/p4.md",
-    "articles/poems/p9.md",
-    "articles/poems/p8.md",
-    "articles/poems/p6.md",
-    "articles/poems/p5.md",
-    "articles/poems/p7.md",
-    "drafts/origin/凡事先搞起来，就能解决80%的焦虑.md",
-    "drafts/read/与朋友舒适相处的背后，都是不动声色的接纳.md",
-    "drafts/read/如何掌控自己的时间和生活.md",
-    "drafts/read/如何阅读一本书.md"
+    "articles/poems/p3.md"
   ]
 }
