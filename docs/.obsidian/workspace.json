@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "b5db9c6ca967aed4",
+        "id": "3db382457cf6926d",
         "type": "tabs",
         "children": [
           {
-            "id": "77a421a0a411e170",
+            "id": "c9bb14360e29b0a9",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -44,21 +44,13 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#提升逻辑思维41个",
+                "query": "[\"aliases\"]",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical"
               }
-            }
-          },
-          {
-            "id": "70ee1982840dda25",
-            "type": "leaf",
-            "state": {
-              "type": "bookmarks",
-              "state": {}
             }
           }
         ]
@@ -118,63 +110,55 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
-            }
-          },
-          {
-            "id": "f62161868eb41a1a",
-            "type": "leaf",
-            "state": {
-              "type": "all-properties",
               "state": {
-                "sortOrder": "frequency"
+                "file": "2023-11-04.md"
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
-    "width": 362.5,
-    "collapsed": true
+    "width": 362.5
   },
   "left-ribbon": {
     "hiddenItems": {
       "switcher:打开快速切换": false,
       "graph:查看关系图谱": false,
-      "canvas:新建白板": false,
-      "daily-notes:打开/创建今天的日记": false,
-      "templates:插入模板": false,
-      "command-palette:打开命令面板": false
+      "canvas:新建白板": true,
+      "daily-notes:打开/创建今天的日记": true,
+      "templates:插入模板": true,
+      "command-palette:打开命令面板": true
     }
   },
-  "active": "77a421a0a411e170",
+  "active": "824199331e977b6d",
   "lastOpenFiles": [
-    "drafts/origin/减少精神内耗的7件小事.md",
+    "未命名.canvas",
+    "2023-11-04.md",
     "drafts/information/成长.md",
+    "drafts/information/健康.md",
+    "未命名.md",
+    "drafts/information/社会.md",
+    "drafts/information/情感.md",
+    "drafts/origin/建立目标感，告别无意义的内卷.md",
+    "drafts/information/职场.md",
+    "drafts/origin/减少精神内耗的7件小事.md",
     "articles/read/r2.md",
     "articles/read/r1.md",
     "drafts/origin/获得「容易快乐人格」的8个小tips.md",
-    "drafts/information/情感.md",
     "drafts/origin/好的爱情，自带成长属性.md",
     "TIP.md",
     "README.md",
-    "drafts/information/职场.md",
     "drafts/origin/关于职场晋升，这是我的10条具体建议.md",
     "drafts/origin/关于男女关系，请牢记这5句话.md",
-    "drafts/information/健康.md",
     "drafts/origin/工作能力强的人，都有这10个特点.md",
     "drafts/origin/改善我们的情绪和情感状态.md",
-    "drafts/information/社会.md",
-    "未命名.md",
     "drafts/origin/改变自己的终极力量.md",
     "未命名 1.md",
     "articles/life/l2.md",
     "articles/life/l3.md",
     "articles/life/l1.md",
-    "articles/poems/p10.md",
-    "articles/poems/p1.md",
-    "articles/poems/p2.md",
-    "articles/poems/p3.md"
+    "articles/poems/p10.md"
   ]
 }
