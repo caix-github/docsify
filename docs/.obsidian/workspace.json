@@ -4,15 +4,19 @@
     "type": "split",
     "children": [
       {
-        "id": "b5db9c6ca967aed4",
+        "id": "2f941d40cd6bdef1",
         "type": "tabs",
         "children": [
           {
-            "id": "77a421a0a411e170",
+            "id": "200ca74b4e8afb57",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "drafts/information/社会.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -81,6 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "drafts/information/社会.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "drafts/information/社会.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +124,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "drafts/information/社会.md"
+              }
             }
           },
           {
@@ -148,33 +156,33 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "77a421a0a411e170",
+  "active": "200ca74b4e8afb57",
   "lastOpenFiles": [
-    "drafts/origin/减少精神内耗的7件小事.md",
+    "drafts/origin/敏感的人，如何在人际关系中保护自己.md",
+    "drafts/information/社会.md",
+    "drafts/origin/最让人舒服的微信聊天模板.md",
+    "drafts/origin/看起来有害，但其实对你有好处的8件小事.md",
+    "drafts/origin/居家“办公” or 居家“摸鱼”？原来我们都做错了.md",
+    "drafts/origin/惊人的“磁场定律”：和正能量的人在一起，真的很重要.md",
+    "drafts/information/情感.md",
+    "drafts/origin/健康关系的6个特点，爱情以外的关系也适用——.md",
+    "drafts/information/健康.md",
     "drafts/information/成长.md",
+    "drafts/origin/建议你做个不好惹的人.md",
+    "drafts/origin/建立目标感，告别无意义的内卷.md",
+    "drafts/origin/减少精神内耗的7件小事.md",
+    "drafts/origin/用目标说话，用产出说话，用结果说话.md",
+    "drafts/origin/如何从空有上进心，变成行动上的巨人？.md",
     "articles/read/r2.md",
     "articles/read/r1.md",
     "drafts/origin/获得「容易快乐人格」的8个小tips.md",
-    "drafts/information/情感.md",
     "drafts/origin/好的爱情，自带成长属性.md",
     "TIP.md",
     "README.md",
     "drafts/information/职场.md",
     "drafts/origin/关于职场晋升，这是我的10条具体建议.md",
     "drafts/origin/关于男女关系，请牢记这5句话.md",
-    "drafts/information/健康.md",
     "drafts/origin/工作能力强的人，都有这10个特点.md",
-    "drafts/origin/改善我们的情绪和情感状态.md",
-    "drafts/information/社会.md",
-    "未命名.md",
-    "drafts/origin/改变自己的终极力量.md",
-    "未命名 1.md",
-    "articles/life/l2.md",
-    "articles/life/l3.md",
-    "articles/life/l1.md",
-    "articles/poems/p10.md",
-    "articles/poems/p1.md",
-    "articles/poems/p2.md",
-    "articles/poems/p3.md"
+    "drafts/origin/改善我们的情绪和情感状态.md"
   ]
 }
