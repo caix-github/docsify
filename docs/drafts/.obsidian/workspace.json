@@ -8,30 +8,24 @@
         "type": "tabs",
         "children": [
           {
-            "id": "9350b8c07a315c42",
+            "id": "55b267b951af4197",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "information/成长.md",
+                "file": "origin/要做个情绪稳定的成年人，从接受情绪不稳定开始.md",
                 "mode": "source",
                 "source": false
               }
             }
-          }
-        ]
-      },
-      {
-        "id": "fe0f61c4d15cd61e",
-        "type": "tabs",
-        "children": [
+          },
           {
-            "id": "45472b670d2cb18a",
+            "id": "5cca6d725e4f5bb6",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "origin/敏感的人，如何在人际关系中保护自己.md",
+                "file": "origin/真爱的4个要素和无法爱人的4种类型.md",
                 "mode": "source",
                 "source": false
               }
@@ -103,7 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "origin/敏感的人，如何在人际关系中保护自己.md",
+                "file": "origin/要做个情绪稳定的成年人，从接受情绪不稳定开始.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -120,7 +114,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "origin/敏感的人，如何在人际关系中保护自己.md",
+                "file": "origin/要做个情绪稳定的成年人，从接受情绪不稳定开始.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -143,7 +137,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "origin/敏感的人，如何在人际关系中保护自己.md"
+                "file": "origin/要做个情绪稳定的成年人，从接受情绪不稳定开始.md"
               }
             }
           }
@@ -164,22 +158,33 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "45472b670d2cb18a",
+  "active": "55b267b951af4197",
   "lastOpenFiles": [
     "information/成长.md",
-    "origin/敏感的人，如何在人际关系中保护自己.md",
-    "origin/梦想也可能是你的枷锁.md",
-    "origin/如何让自己更有配得感？.md",
-    "origin/厉害的人，都是如何度过周末的？.md",
-    "origin/看起来有害，但其实对你有好处的8件小事.md",
-    "information/社会.md",
-    "origin/居家“办公” or 居家“摸鱼”？原来我们都做错了.md",
-    "origin/惊人的“磁场定律”：和正能量的人在一起，真的很重要.md",
-    "origin/健康关系的6个特点，爱情以外的关系也适用——.md",
-    "origin/健康的自私非常必要，这3点建议越早知道越好.md",
-    "origin/建议你做个不好惹的人.md",
+    "origin/也许是这个时代最常见的问题.md",
+    "origin/要做个情绪稳定的成年人，从接受情绪不稳定开始.md",
+    "origin/一个人的焦虑，是从羡慕别人开始的.md",
+    "origin/一个优秀的人，往往都有这8种特质.md",
+    "information/职场.md",
+    "origin/用目标，产出，结果说话.md",
+    "origin/真爱的4个要素和无法爱人的4种类型.md",
+    "origin/流程思维.md",
+    "origin/人际关系.md",
+    "origin/5个不同寻常快乐的「小众习惯」.md",
+    "information/情感.md",
+    "origin/记住所学的东西.md",
+    "origin/真爱的7个特征.md",
+    "origin/敢做“没用”的事.md",
+    "origin/正能量磁场.md",
+    "origin/自驱力.md",
+    "origin/致自己.md",
+    "origin/中国互联网的四个暗逻辑.md",
+    "origin/自我管理的6个好习惯.md",
+    "origin/最好的学习时间竟然是这个时段.md",
     "information/健康.md",
-    "origin/建立目标感，告别无意义的内卷.md",
-    "origin/减少精神内耗的7件小事.md"
+    "origin/情绪价值.md",
+    "origin/情感氪石.md",
+    "origin/最让人舒服的微信聊天模板.md",
+    "origin/建议你做个不好惹的人.md"
   ]
 }
