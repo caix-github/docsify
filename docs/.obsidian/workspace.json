@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "drafts/information/健康.md",
+                "file": "drafts/origin/我从成功人士身上「偷」来的12件事.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "drafts/information/健康.md",
+                "file": "drafts/origin/我从成功人士身上「偷」来的12件事.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "drafts/information/健康.md",
+                "file": "drafts/origin/我从成功人士身上「偷」来的12件事.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -135,7 +135,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "drafts/information/健康.md"
+                "file": "drafts/origin/我从成功人士身上「偷」来的12件事.md"
               }
             }
           }
@@ -143,8 +143,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -156,8 +155,17 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "12f8d53fe200c417",
+  "active": "4a200ba7523ecde1",
   "lastOpenFiles": [
-    "drafts/information/成长.md"
+    "drafts/origin/想通一点，情绪就稳定了.md",
+    "drafts/origin/学习最大的误区，是指望自己“自觉”.md",
+    "drafts/origin/要做个情绪稳定的成年人，从接受情绪不稳定开始.md",
+    "drafts/origin/也许是这个时代最常见的问题.md",
+    "drafts/origin/一个优秀的人，往往都有这8种特质.md",
+    "drafts/origin/用目标，产出，结果说话.md",
+    "drafts/information/职场.md",
+    "drafts/origin/走出舒适区？.md",
+    "drafts/information/成长.md",
+    "drafts/information/健康.md"
   ]
 }
