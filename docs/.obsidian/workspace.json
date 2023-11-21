@@ -4,19 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "a9110fe0f15f651e",
+        "id": "d4355be993cf049a",
         "type": "tabs",
         "children": [
           {
-            "id": "4a200ba7523ecde1",
+            "id": "629a56bd7638733f",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "drafts/origin/我从成功人士身上「偷」来的12件事.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -85,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "drafts/origin/我从成功人士身上「偷」来的12件事.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "drafts/origin/我从成功人士身上「偷」来的12件事.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,9 +128,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "drafts/origin/我从成功人士身上「偷」来的12件事.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -155,8 +147,11 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "4a200ba7523ecde1",
+  "active": "629a56bd7638733f",
   "lastOpenFiles": [
+    "drafts/information/成长.md",
+    "drafts/origin/迷茫，很正常；不迷茫，反倒可能是“人生的早闭”.md",
+    "drafts/origin/我从成功人士身上「偷」来的12件事.md",
     "drafts/origin/想通一点，情绪就稳定了.md",
     "drafts/origin/学习最大的误区，是指望自己“自觉”.md",
     "drafts/origin/要做个情绪稳定的成年人，从接受情绪不稳定开始.md",
@@ -165,7 +160,6 @@
     "drafts/origin/用目标，产出，结果说话.md",
     "drafts/information/职场.md",
     "drafts/origin/走出舒适区？.md",
-    "drafts/information/成长.md",
     "drafts/information/健康.md"
   ]
 }
