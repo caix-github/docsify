@@ -11,8 +11,12 @@
             "id": "629a56bd7638733f",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "drafts/information/成长.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -81,6 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "drafts/information/成长.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "drafts/information/成长.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -128,7 +134,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "drafts/information/成长.md"
+              }
             }
           }
         ]
@@ -149,14 +157,17 @@
   },
   "active": "629a56bd7638733f",
   "lastOpenFiles": [
+    "drafts/origin/享受无聊？.md",
     "drafts/information/成长.md",
-    "drafts/origin/迷茫，很正常；不迷茫，反倒可能是“人生的早闭”.md",
     "drafts/origin/我从成功人士身上「偷」来的12件事.md",
     "drafts/origin/想通一点，情绪就稳定了.md",
-    "drafts/origin/学习最大的误区，是指望自己“自觉”.md",
     "drafts/origin/要做个情绪稳定的成年人，从接受情绪不稳定开始.md",
     "drafts/origin/也许是这个时代最常见的问题.md",
     "drafts/origin/一个优秀的人，往往都有这8种特质.md",
+    "drafts/origin/真爱的4个要素和无法爱人的4种类型.md",
+    "drafts/origin/最让人舒服的微信聊天模板.md",
+    "drafts/origin/迷茫，很正常；不迷茫，反倒可能是“人生的早闭”.md",
+    "drafts/origin/学习最大的误区，是指望自己“自觉”.md",
     "drafts/origin/用目标，产出，结果说话.md",
     "drafts/information/职场.md",
     "drafts/origin/走出舒适区？.md",
