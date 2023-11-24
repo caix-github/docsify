@@ -4,28 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "ff4ca0691aac9056",
+        "id": "9cf6768db4b1eb7d",
         "type": "tabs",
         "children": [
           {
-            "id": "55b267b951af4197",
+            "id": "5b5dc19eb9bf2682",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "origin/我们为什么要走出舒适区？丨21读书.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "5cca6d725e4f5bb6",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "origin/真爱的4个要素和无法爱人的4种类型.md",
+                "file": "origin/微信聊天，建议你冷淡一点.md",
                 "mode": "source",
                 "source": false
               }
@@ -97,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "origin/我们为什么要走出舒适区？丨21读书.md",
+                "file": "origin/微信聊天，建议你冷淡一点.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "origin/我们为什么要走出舒适区？丨21读书.md",
+                "file": "origin/微信聊天，建议你冷淡一点.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "origin/我们为什么要走出舒适区？丨21读书.md"
+                "file": "origin/微信聊天，建议你冷淡一点.md"
               }
             }
           }
@@ -158,33 +146,33 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "55b267b951af4197",
+  "active": "5b5dc19eb9bf2682",
   "lastOpenFiles": [
-    "information/健康.md",
-    "information/成长.md",
-    "origin/想通一点，情绪就稳定了.md",
-    "origin/学习最大的误区，是指望自己“自觉”.md",
-    "origin/要做个情绪稳定的成年人，从接受情绪不稳定开始.md",
-    "origin/也许是这个时代最常见的问题.md",
-    "origin/一个人的焦虑，是从羡慕别人开始的.md",
-    "origin/一个优秀的人，往往都有这8种特质.md",
     "information/职场.md",
-    "origin/用目标，产出，结果说话.md",
-    "origin/真爱的4个要素和无法爱人的4种类型.md",
-    "origin/流程思维.md",
-    "origin/人际关系.md",
-    "origin/5个不同寻常快乐的「小众习惯」.md",
+    "origin/为什么不取消日报、周报.md",
+    "origin/微信聊天，建议你冷淡一点.md",
+    "origin/停止内耗，你的人生就顺了.md",
+    "origin/太累后，如何快速复原？.md",
+    "origin/思路混乱的人，一人拖垮一个团队.md",
+    "origin/说话「阴阳怪气」的人，如何回击？.md",
+    "origin/深度学习的4个底层逻辑.md",
+    "origin/如何做到自我接纳？.md",
+    "origin/如何自我激励？.md",
+    "origin/如何让自己更有配得感？.md",
+    "origin/如何每天只睡6小时，依然精力充沛？.md",
+    "origin/情绪急救的6个小方法.md",
+    "origin/情感氪石.md",
+    "information/健康.md",
+    "origin/为什么你的新年目标通常都很难完成.md",
+    "origin/为什么你总是越睡越困.md",
+    "origin/我从成功人士身上「偷」来的12件事.md",
+    "information/成长.md",
     "information/情感.md",
-    "origin/记住所学的东西.md",
-    "origin/真爱的7个特征.md",
-    "origin/敢做“没用”的事.md",
-    "origin/正能量磁场.md",
-    "origin/自驱力.md",
-    "origin/致自己.md",
-    "origin/中国互联网的四个暗逻辑.md",
-    "origin/自我管理的6个好习惯.md",
-    "origin/最好的学习时间竟然是这个时段.md",
-    "origin/情绪价值.md",
-    "origin/情感氪石.md"
+    "origin/健康的自私非常必要.md",
+    "origin/健康关系的6个特点.md",
+    "origin/为什么我们总是觉得学习很难？.md",
+    "origin/为什么越理性的人越软弱？.md",
+    "information/社会.md",
+    "origin/建立人脉.md"
   ]
 }
