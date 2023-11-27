@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "drafts/information/职场.md",
+                "file": "drafts/information/成长.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "drafts/information/职场.md",
+                "file": "drafts/information/成长.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "drafts/information/职场.md",
+                "file": "drafts/information/成长.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -135,7 +135,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "drafts/information/职场.md"
+                "file": "drafts/information/成长.md"
               }
             }
           }
@@ -158,31 +158,32 @@
   },
   "active": "629a56bd7638733f",
   "lastOpenFiles": [
-    "drafts/origin/如果你不想上班了，就问问自己这三个问题.md",
-    "drafts/information/社会.md",
-    "drafts/origin/如何变得更有说服力？.md",
-    "drafts/information/成长.md",
-    "drafts/origin/如何成为一个“扎实”的顶尖高手？.md",
-    "drafts/origin/如何从空有上进心，变成行动上的巨人？.md",
-    "drafts/information/知识体系.md",
-    "drafts/origin/知识吸收归纳.md",
-    "drafts/information/知识体系",
-    "drafts/origin/为什么越理性的人越软弱？.md",
-    "drafts/origin/我从成功人士身上「偷」来的12件事.md",
-    "drafts/origin/我们终究会在事与愿违中学会自渡.md",
-    "drafts/origin/永远都不要在谈话中“自嘲”.md",
-    "drafts/origin/享受无聊？.md",
-    "drafts/origin/想通一点，情绪就稳定了.md",
-    "drafts/origin/学习最大的误区，是指望自己“自觉”.md",
-    "drafts/origin/要做个情绪稳定的成年人，从接受情绪不稳定开始.md",
-    "drafts/origin/也许是这个时代最常见的问题.md",
-    "drafts/origin/一个优秀的人，往往都有这8种特质.md",
-    "drafts/origin/真爱的4个要素和无法爱人的4种类型.md",
     "drafts/origin/最让人舒服的微信聊天模板.md",
-    "drafts/origin/迷茫，很正常；不迷茫，反倒可能是“人生的早闭”.md",
-    "drafts/origin/用目标，产出，结果说话.md",
-    "drafts/information/职场.md",
+    "drafts/origin/最好的学习时间竟然是这个时段.md",
     "drafts/origin/走出舒适区？.md",
-    "drafts/information/健康.md"
+    "drafts/origin/自驱力.md",
+    "drafts/origin/致自己.md",
+    "drafts/origin/知识吸收归纳.md",
+    "drafts/origin/想通一点，情绪就稳定了.md",
+    "drafts/origin/要做个情绪稳定的成年人，从接受情绪不稳定开始.md",
+    "drafts/origin/一个优秀的人，往往都有这8种特质.md",
+    "drafts/origin/用目标，产出，结果说话.md",
+    "drafts/origin/我从成功人士身上「偷」来的12件事.md",
+    "drafts/origin/为什么你总是越睡越困.md",
+    "drafts/origin/我们终究会在事与愿违中学会自渡.md",
+    "drafts/origin/为什么不取消日报、周报.md",
+    "drafts/origin/深度学习的4个底层逻辑.md",
+    "drafts/origin/如何成为一个“扎实”的顶尖高手？.md",
+    "drafts/origin/如何每天只睡6小时，依然精力充沛？.md",
+    "drafts/origin/如何让自己更有配得感？.md",
+    "drafts/origin/如何做到自我接纳？.md",
+    "drafts/origin/是在做更好的选择，还是在逃避？.md",
+    "drafts/origin/说话「阴阳怪气」的人，如何回击？.md",
+    "drafts/origin/太累后，如何快速复原？.md",
+    "drafts/origin/停止内耗，你的人生就顺了.md",
+    "drafts/origin/如何做好压力管理？.md",
+    "drafts/origin/如何变得更有说服力？.md",
+    "drafts/origin/人生最重要的3种免疫力.md",
+    "drafts/information/知识体系"
   ]
 }
