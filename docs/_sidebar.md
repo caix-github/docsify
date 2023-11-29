@@ -82,6 +82,7 @@
   - [二十二期](articles/fun/f22.md)
   - [二十三期](articles/fun/f23.md)
   - [二十四期](articles/fun/f24.md)
+  - [二十五期](articles/fun/f25.md)
 - 阅读心得
   - [《程序员底层思维》观后感](articles/read/r1.md)
 - 美食天地
