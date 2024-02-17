@@ -92,5 +92,6 @@
   - [20230108饮食清单](articles/delicacy/d3.md)
   - [20230203饮食清单](articles/delicacy/d4.md)
   - [20230409饮食清单](articles/delicacy/d5.md)
+  - [20240217饮食清单](articles/delicacy/d6.md)
 - 户外旅行
   - [团建之百草园](articles/journey/j1.md)
