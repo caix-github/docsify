@@ -46,6 +46,9 @@
   <!-- - [webfunny 监控系统的测试实践](articles/technical/t20.md) -->
   - [前端浏览器缓存知识](articles/technical/t21.md)
   - [Webpack Bundle Analyzer包分析器](articles/technical/t22.md)
+  - [Monitor](articles/technical/t23.md)
+  - [Nginx核心知识](articles/technical/t24.md)
+  - [webpack配置gzip压缩资源](articles/technical/t25.md)
 - 走鑫散集
   - [我的挂耳咖啡](articles/poems/p1.md)
   - [茫茫然](articles/poems/p2.md)
@@ -84,6 +87,7 @@
   - [二十四期](articles/fun/f24.md)
   - [二十五期](articles/fun/f25.md)
   - [二十六期](articles/fun/f26.md)
+  - [二十七期](articles/fun/f27.md)
 - 阅读心得
   - [《程序员底层思维》观后感](articles/read/r1.md)
 - 美食天地
