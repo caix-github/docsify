@@ -49,6 +49,7 @@
   - [Monitor](articles/technical/t23.md)
   - [Nginx核心知识](articles/technical/t24.md)
   - [webpack配置gzip压缩资源](articles/technical/t25.md)
+  - [知识库机器人搭建](articles/technical/t26.md)
 - 走鑫散集
   - [我的挂耳咖啡](articles/poems/p1.md)
   - [茫茫然](articles/poems/p2.md)
