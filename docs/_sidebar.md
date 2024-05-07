@@ -1,7 +1,7 @@
 <!--
  * @Author: caixin
  * @Date: 2021-06-10 10:06:40
- * @LastEditTime: 2023-08-17 15:45:17
+ * @LastEditTime: 2024-05-07 15:27:05
  * @LastEditors: 蔡鑫 1058360098@qq.com
  * @Description: 修改目录
  * @FilePath: \docsify\docs\_sidebar.md
@@ -69,6 +69,14 @@
   - [萧秋](articles/poems/p16.md)
   - [纱](articles/poems/p17.md)
   - [朝霞](articles/poems/p18.md)
+  - [假如没有眼泪](articles/poems/p19.md)
+  - [过客](articles/poems/p20.md)
+  - [南冬](articles/poems/p21.md)
+  - [两小鸭](articles/poems/p22.md)
+  - [太阳](articles/poems/p23.md)
+  - [窗](articles/poems/p24.md)
+  - [月光](articles/poems/p25.md)
+  - [觅乐](articles/poems/p26.md)
 - 古灵精怪
   - [一期](articles/fun/f1.md)
   - [二期](articles/fun/f2.md)
@@ -106,5 +114,7 @@
   - [20230203饮食清单](articles/delicacy/d4.md)
   - [20230409饮食清单](articles/delicacy/d5.md)
   - [20240217饮食清单](articles/delicacy/d6.md)
+  - [20240507饮食清单](articles/delicacy/d7.md)
 - 户外旅行
   - [团建之百草园](articles/journey/j1.md)
+  - [古港之行](articles/journey/j2.md)
