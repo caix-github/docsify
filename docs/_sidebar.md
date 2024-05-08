@@ -1,7 +1,7 @@
 <!--
  * @Author: caixin
  * @Date: 2021-06-10 10:06:40
- * @LastEditTime: 2024-05-07 15:27:05
+ * @LastEditTime: 2024-05-08 16:40:04
  * @LastEditors: 蔡鑫 1058360098@qq.com
  * @Description: 修改目录
  * @FilePath: \docsify\docs\_sidebar.md
@@ -77,6 +77,15 @@
   - [窗](articles/poems/p24.md)
   - [月光](articles/poems/p25.md)
   - [觅乐](articles/poems/p26.md)
+  - [田野](articles/poems/p27.md)
+  - [时光](articles/poems/p28.md)
+  - [人生](articles/poems/p29.md)
+  - [陪伴](articles/poems/p30.md)
+  - [阳光](articles/poems/p31.md)
+  - [雨思](articles/poems/p32.md)
+  - [眼睛](articles/poems/p33.md)
+  - [风](articles/poems/p34.md)
+  - [星空](articles/poems/p35.md)
 - 古灵精怪
   - [一期](articles/fun/f1.md)
   - [二期](articles/fun/f2.md)
