@@ -1,7 +1,7 @@
 <!--
  * @Author: caixin
  * @Date: 2021-06-10 10:06:40
- * @LastEditTime: 2024-05-08 16:40:04
+ * @LastEditTime: 2024-05-11 14:26:17
  * @LastEditors: 蔡鑫 1058360098@qq.com
  * @Description: 修改目录
  * @FilePath: \docsify\docs\_sidebar.md
@@ -86,6 +86,28 @@
   - [眼睛](articles/poems/p33.md)
   - [风](articles/poems/p34.md)
   - [星空](articles/poems/p35.md)
+  - [海滩](articles/poems/p36.md)
+  - [林荫小径](articles/poems/p37.md)
+  - [屏障](articles/poems/p38.md)
+  - [落叶](articles/poems/p39.md)
+  - [热爱](articles/poems/p40.md)
+  - [细沙](articles/poems/p41.md)
+  - [三猫](articles/poems/p42.md)
+  - [水花](articles/poems/p43.md)
+  - [如愿](articles/poems/p44.md)
+  - [币鼠](articles/poems/p45.md)
+  - [思念](articles/poems/p46.md)
+  - [期待](articles/poems/p47.md)
+  - [书](articles/poems/p48.md)
+  - [灯塔](articles/poems/p49.md)
+  - [山游](articles/poems/p50.md)
+  - [时光走廊](articles/poems/p51.md)
+  - [旷野](articles/poems/p52.md)
+  - [为情绪说个理](articles/poems/p53.md)
+  - [生命力](articles/poems/p54.md)
+  - [拥抱变化](articles/poems/p55.md)
+  - [去有风的地方](articles/poems/p56.md)
+  - [二手生活](articles/poems/p57.md)
 - 古灵精怪
   - [一期](articles/fun/f1.md)
   - [二期](articles/fun/f2.md)
