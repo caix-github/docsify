@@ -108,6 +108,8 @@
   - [拥抱变化](articles/poems/p55.md)
   - [去有风的地方](articles/poems/p56.md)
   - [二手生活](articles/poems/p57.md)
+  - [草原](articles/poems/p58.md)
+  - [沙瓶](articles/poems/p59.md)
 - 古灵精怪
   - [一期](articles/fun/f1.md)
   - [二期](articles/fun/f2.md)
@@ -136,6 +138,8 @@
   - [二十五期](articles/fun/f25.md)
   - [二十六期](articles/fun/f26.md)
   - [二十七期](articles/fun/f27.md)
+  - [二十八期](articles/fun/f28.md)
+  - [二十九期](articles/fun/f29.md)
 - 阅读心得
   - [《程序员底层思维》观后感](articles/read/r1.md)
 - 美食天地
