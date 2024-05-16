@@ -140,6 +140,7 @@
   - [二十七期](articles/fun/f27.md)
   - [二十八期](articles/fun/f28.md)
   - [二十九期](articles/fun/f29.md)
+  - [三十期](articles/fun/f30.md)
 - 阅读心得
   - [《程序员底层思维》观后感](articles/read/r1.md)
 - 美食天地
