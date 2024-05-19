@@ -110,6 +110,8 @@
   - [二手生活](articles/poems/p57.md)
   - [草原](articles/poems/p58.md)
   - [沙瓶](articles/poems/p59.md)
+  - [允许](articles/poems/p60.md)
+  - [蝉鸣](articles/poems/p61.md)
 - 古灵精怪
   - [一期](articles/fun/f1.md)
   - [二期](articles/fun/f2.md)
