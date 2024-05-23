@@ -112,6 +112,8 @@
   - [沙瓶](articles/poems/p59.md)
   - [允许](articles/poems/p60.md)
   - [蝉鸣](articles/poems/p61.md)
+  - [低期望](articles/poems/p62.md)
+  - [梦](articles/poems/p63.md)
 - 古灵精怪
   - [一期](articles/fun/f1.md)
   - [二期](articles/fun/f2.md)
@@ -145,6 +147,7 @@
   - [三十期](articles/fun/f30.md)
 - 阅读心得
   - [《程序员底层思维》观后感](articles/read/r1.md)
+  - [《左耳听风》观后感](articles/read/r2.md)
 - 美食天地
   - [20220920饮食清单](articles/delicacy/d1.md)
   - [20221230饮食清单](articles/delicacy/d2.md)
