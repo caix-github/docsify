@@ -8,7 +8,7 @@
 -->
 <!-- _coverpage.md -->
 
-<img width="180px" style="border-radius: 50%" bor src="//cdn.jsdelivr.net/gh/caix-github/pics-storage/logo.jpg"/>
+<img width="180px" style="border-radius: 50%" bor src="./assets/logo.jpg"/>
 
 <h1>星寻记</h1>
 
