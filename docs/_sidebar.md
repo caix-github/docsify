@@ -1,7 +1,7 @@
 <!--
  * @Author: caixin
  * @Date: 2021-06-10 10:06:40
- * @LastEditTime: 2024-05-25 18:03:33
+ * @LastEditTime: 2024-05-26 14:53:32
  * @LastEditors: caixin 1058360098@qq.com
  * @Description: 修改目录
  * @FilePath: \docsify\docs\_sidebar.md
@@ -146,8 +146,10 @@
   - [二十九期](articles/fun/f29.md)
   - [三十期](articles/fun/f30.md)
 - 阅读心得
-  - [《程序员底层思维》观后感](articles/read/r1.md)
-  - [《左耳听风》观后感](articles/read/r2.md)
+  - [《程序员底层思维》读后感](articles/read/r1.md)
+  - [《左耳听风》读后感](articles/read/r2.md)
+  - [《学习的本质》读后感](articles/read/r3.md)
+  - [《了不起的我》读后感](articles/read/r7.md)
   - [《小王子》观后感](articles/read/r9.md)
 - 美食天地
   - [20220920饮食清单](articles/delicacy/d1.md)
