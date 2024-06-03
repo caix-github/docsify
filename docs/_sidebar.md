@@ -151,6 +151,7 @@
   - [《学习的本质》读后感](articles/read/r3.md)
   - [《了不起的我》读后感](articles/read/r7.md)
   - [《小王子》观后感](articles/read/r9.md)
+  - [《vue.js设计与实现》读后感](articles/read/r10.md)
 - 美食天地
   - [20220920饮食清单](articles/delicacy/d1.md)
   - [20221230饮食清单](articles/delicacy/d2.md)
@@ -159,6 +160,7 @@
   - [20230409饮食清单](articles/delicacy/d5.md)
   - [20240217饮食清单](articles/delicacy/d6.md)
   - [20240507饮食清单](articles/delicacy/d7.md)
-- 户外旅行
+- 户外随记
   - [团建之百草园](articles/journey/j1.md)
   - [古港之行](articles/journey/j2.md)
+  - [影](articles/journey/j3.md)
