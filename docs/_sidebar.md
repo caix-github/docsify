@@ -1,8 +1,8 @@
 <!--
  * @Author: caixin
  * @Date: 2021-06-10 10:06:40
- * @LastEditTime: 2024-05-26 14:53:32
- * @LastEditors: caixin 1058360098@qq.com
+ * @LastEditTime: 2024-06-05 11:22:40
+ * @LastEditors: 蔡鑫 1058360098@qq.com
  * @Description: 修改目录
  * @FilePath: \docsify\docs\_sidebar.md
 -->
@@ -114,6 +114,14 @@
   - [蝉鸣](articles/poems/p61.md)
   - [低期望](articles/poems/p62.md)
   - [梦](articles/poems/p63.md)
+  - [枷锁](articles/poems/p64.md)
+  - [画](articles/poems/p65.md)
+  - [原野](articles/poems/p66.md)
+  - [自知](articles/poems/p67.md)
+  - [慢慢喜欢你](articles/poems/p68.md)
+  - [我](articles/poems/p69.md)
+  - [距离](articles/poems/p70.md)
+  - [空杯](articles/poems/p71.md)
 - 古灵精怪
   - [一期](articles/fun/f1.md)
   - [二期](articles/fun/f2.md)
