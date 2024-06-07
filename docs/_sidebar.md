@@ -153,6 +153,8 @@
   - [二十八期](articles/fun/f28.md)
   - [二十九期](articles/fun/f29.md)
   - [三十期](articles/fun/f30.md)
+  - [三十一期](articles/fun/f31.md)
+  - [三十二期](articles/fun/f32.md)
 - 阅读心得
   - [《程序员底层思维》读后感](articles/read/r1.md)
   - [《左耳听风》读后感](articles/read/r2.md)
