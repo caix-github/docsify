@@ -1,7 +1,7 @@
 <!--
  * @Author: caixin
  * @Date: 2021-06-10 10:06:40
- * @LastEditTime: 2024-06-05 11:22:40
+ * @LastEditTime: 2024-06-11 16:05:11
  * @LastEditors: 蔡鑫 1058360098@qq.com
  * @Description: 修改目录
  * @FilePath: \docsify\docs\_sidebar.md
@@ -122,6 +122,8 @@
   - [我](articles/poems/p69.md)
   - [距离](articles/poems/p70.md)
   - [空杯](articles/poems/p71.md)
+  - [蛙](articles/poems/p72.md)
+  - [祝](articles/poems/p73.md)
 - 古灵精怪
   - [一期](articles/fun/f1.md)
   - [二期](articles/fun/f2.md)
@@ -159,9 +161,13 @@
   - [《程序员底层思维》读后感](articles/read/r1.md)
   - [《左耳听风》读后感](articles/read/r2.md)
   - [《学习的本质》读后感](articles/read/r3.md)
+  - [《vue.js设计与实现》读后感](articles/read/r4.md)
+  - [《另一个，同一个》读后感](articles/read/r5.md)
+  - [《打开心智》读后感](articles/read/r6.md)
   - [《了不起的我》读后感](articles/read/r7.md)
+  - [《平凡的世界》读后感](articles/read/r8.md)
   - [《小王子》观后感](articles/read/r9.md)
-  - [《vue.js设计与实现》读后感](articles/read/r10.md)
+  - [《我的阿勒泰》读后感](articles/read/r10.md)
 - 美食天地
   - [20220920饮食清单](articles/delicacy/d1.md)
   - [20221230饮食清单](articles/delicacy/d2.md)
@@ -174,3 +180,4 @@
   - [团建之百草园](articles/journey/j1.md)
   - [古港之行](articles/journey/j2.md)
   - [影](articles/journey/j3.md)
+  - [浮萍](articles/journey/j4.md)
