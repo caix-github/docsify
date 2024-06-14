@@ -157,6 +157,7 @@
   - [三十期](articles/fun/f30.md)
   - [三十一期](articles/fun/f31.md)
   - [三十二期](articles/fun/f32.md)
+  - [三十三期](articles/fun/f33.md)
 - 阅读心得
   - [《程序员底层思维》读后感](articles/read/r1.md)
   - [《左耳听风》读后感](articles/read/r2.md)
@@ -181,3 +182,5 @@
   - [古港之行](articles/journey/j2.md)
   - [影](articles/journey/j3.md)
   - [浮萍](articles/journey/j4.md)
+  - [漂流记](articles/journey/j5.md)
+  - [太和古洞记](articles/journey/j6.md)
