@@ -181,6 +181,7 @@
   - [20230409饮食清单](articles/delicacy/d5.md)
   - [20240217饮食清单](articles/delicacy/d6.md)
   - [20240507饮食清单](articles/delicacy/d7.md)
+  - [20240619饮食清单](articles/delicacy/d8.md)
 - 户外随记
   - [团建之百草园](articles/journey/j1.md)
   - [古港之行](articles/journey/j2.md)
