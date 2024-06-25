@@ -127,6 +127,11 @@
   - [周五那场雨](articles/poems/p74.md)
   - [山](articles/poems/p75.md)
   - [旅](articles/poems/p76.md)
+  - [纷纭](articles/poems/p77.md)
+  - [梦回](articles/poems/p78.md)
+  - [荷之叶](articles/poems/p79.md)
+  - [荷之花](articles/poems/p80.md)
+  - [活学](articles/poems/p81.md)
 - 古灵精怪
   - [一期](articles/fun/f1.md)
   - [二期](articles/fun/f2.md)
@@ -181,6 +186,7 @@
   - [20230409饮食清单](articles/delicacy/d5.md)
   - [20240217饮食清单](articles/delicacy/d6.md)
   - [20240507饮食清单](articles/delicacy/d7.md)
+  - [20240619饮食清单](articles/delicacy/d8.md)
 - 户外随记
   - [团建之百草园](articles/journey/j1.md)
   - [古港之行](articles/journey/j2.md)
