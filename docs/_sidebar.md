@@ -132,6 +132,8 @@
   - [荷之叶](articles/poems/p79.md)
   - [荷之花](articles/poems/p80.md)
   - [活学](articles/poems/p81.md)
+  - [怀恋](articles/poems/p82.md)
+  - [圆](articles/poems/p83.md)
 - 古灵精怪
   - [一期](articles/fun/f1.md)
   - [二期](articles/fun/f2.md)
