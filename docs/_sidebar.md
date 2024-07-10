@@ -135,6 +135,12 @@
   - [活学](articles/poems/p81.md)
   - [怀恋](articles/poems/p82.md)
   - [圆](articles/poems/p83.md)
+  - [林荫小径2](articles/poems/p84.md)
+  - [生活](articles/poems/p85.md)
+  - [Panda](articles/poems/p86.md)
+  - [回忆](articles/poems/p87.md)
+  - [启程](articles/poems/p88.md)
+  - [亲自然](articles/poems/p89.md)
 - 古灵精怪
   - [一期](articles/fun/f1.md)
   - [二期](articles/fun/f2.md)
@@ -197,3 +203,4 @@
   - [浮萍](articles/journey/j4.md)
   - [漂流记](articles/journey/j5.md)
   - [太和古洞记](articles/journey/j6.md)
+  - [万博回程随记](articles/journey/j7.md)
