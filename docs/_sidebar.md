@@ -1,7 +1,7 @@
 <!--
  * @Author: caixin
  * @Date: 2021-06-10 10:06:40
- * @LastEditTime: 2024-06-11 16:05:11
+ * @LastEditTime: 2024-07-19 16:33:27
  * @LastEditors: 蔡鑫 1058360098@qq.com
  * @Description: 修改目录
  * @FilePath: \docsify\docs\_sidebar.md
@@ -141,6 +141,15 @@
   - [回忆](articles/poems/p87.md)
   - [启程](articles/poems/p88.md)
   - [亲自然](articles/poems/p89.md)
+  - [那是你](articles/poems/p90.md)
+  - [信息孤岛](articles/poems/p91.md)
+  - [有声音的躯体](articles/poems/p92.md)
+  - [尘埃落定](articles/poems/p93.md)
+  - [蓝天](articles/poems/p94.md)
+  - [同一片天空](articles/poems/p95.md)
+  - [小美满](articles/poems/p96.md)
+  - [混沌](articles/poems/p97.md)
+  - [沉沦人海](articles/poems/p98.md)
 - 古灵精怪
   - [一期](articles/fun/f1.md)
   - [二期](articles/fun/f2.md)
