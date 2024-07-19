@@ -1,7 +1,7 @@
 <!--
  * @Author: caixin
  * @Date: 2021-06-10 10:06:40
- * @LastEditTime: 2024-06-11 16:05:11
+ * @LastEditTime: 2024-07-19 16:33:27
  * @LastEditors: 蔡鑫 1058360098@qq.com
  * @Description: 修改目录
  * @FilePath: \docsify\docs\_sidebar.md
@@ -24,20 +24,20 @@
   - [用最简单的方法养成读书的好习惯](articles/life/l14.md)
   - [前端专家离你只有一步之遥](articles/life/l15.md) -->
 - 技术汇总
-  <!-- - [web 安全](articles/technical/t1.md) -->
-  - [js 继承](articles/technical/t2.md)
+  - [JS函数](articles/technical/t1.md)
+  - [JS 继承](articles/technical/t2.md)
   - [手写 MVVM](articles/technical/t3.md)
-  - [js 动画](articles/technical/t4.md)
-  - [js 引擎](articles/technical/t5.md)
+  - [JS 动画](articles/technical/t4.md)
+  - [JS 引擎](articles/technical/t5.md)
   - [函数式编程](articles/technical/t6.md)
-  - [css 三栏式布局](articles/technical/t7.md)
+  - [CSS 三栏式布局](articles/technical/t7.md)
   - [微前端](articles/technical/t8.md)
-  - [js 数组](articles/technical/t9.md)
+  - [JS 数组](articles/technical/t9.md)
   - [正则表达式](articles/technical/t10.md)
-  - [js 深浅拷贝](articles/technical/t11.md)
+  - [JS 深浅拷贝](articles/technical/t11.md)
   - [JS 数组奇巧淫技](articles/technical/t12.md)
-  - [js 语法优化](articles/technical/t13.md)
-  - [css 布局](articles/technical/t14.md)
+  - [JS 语法优化](articles/technical/t13.md)
+  - [CSS 布局](articles/technical/t14.md)
   - [11 个 JS 小技巧](articles/technical/t15.md)
   - [Set 与 WeakSet](articles/technical/t16.md)
   - [SCSS 语法](articles/technical/t17.md)
@@ -141,6 +141,15 @@
   - [回忆](articles/poems/p87.md)
   - [启程](articles/poems/p88.md)
   - [亲自然](articles/poems/p89.md)
+  - [那是你](articles/poems/p90.md)
+  - [信息孤岛](articles/poems/p91.md)
+  - [有声音的躯体](articles/poems/p92.md)
+  - [尘埃落定](articles/poems/p93.md)
+  - [蓝天](articles/poems/p94.md)
+  - [同一片天空](articles/poems/p95.md)
+  - [小美满](articles/poems/p96.md)
+  - [混沌](articles/poems/p97.md)
+  - [沉沦人海](articles/poems/p98.md)
 - 古灵精怪
   - [一期](articles/fun/f1.md)
   - [二期](articles/fun/f2.md)
