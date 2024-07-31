@@ -1,7 +1,7 @@
 <!--
  * @Author: caixin
  * @Date: 2021-06-10 10:06:40
- * @LastEditTime: 2024-07-19 16:33:27
+ * @LastEditTime: 2024-07-31 15:53:15
  * @LastEditors: 蔡鑫 1058360098@qq.com
  * @Description: 修改目录
  * @FilePath: \docsify\docs\_sidebar.md
@@ -150,6 +150,13 @@
   - [小美满](articles/poems/p96.md)
   - [混沌](articles/poems/p97.md)
   - [沉沦人海](articles/poems/p98.md)
+  - [盛夏&蝉鸣&去有风的地方](articles/poems/p99.md)
+  - [云海](articles/poems/p100.md)
+  - [虚荣](articles/poems/p101.md)
+  - [五色盘](articles/poems/p102.md)
+  - [心旅](articles/poems/p103.md)
+  - [因风而来](articles/poems/p104.md)
+  - [扭曲的人](articles/poems/p105.md)
 - 古灵精怪
   - [一期](articles/fun/f1.md)
   - [二期](articles/fun/f2.md)
@@ -184,6 +191,7 @@
   - [三十一期](articles/fun/f31.md)
   - [三十二期](articles/fun/f32.md)
   - [三十三期](articles/fun/f33.md)
+  - [三十四期](articles/fun/f34.md)
 - 阅读心得
   - [《程序员底层思维》读后感](articles/read/r1.md)
   - [《左耳听风》读后感](articles/read/r2.md)
@@ -213,3 +221,4 @@
   - [漂流记](articles/journey/j5.md)
   - [太和古洞记](articles/journey/j6.md)
   - [万博回程随记](articles/journey/j7.md)
+  - [20240720周末随记](articles/journey/j8.md)
