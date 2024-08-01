@@ -1,7 +1,7 @@
 <!--
  * @Author: caixin
  * @Date: 2021-06-10 10:06:40
- * @LastEditTime: 2024-07-31 15:53:15
+ * @LastEditTime: 2024-08-01 14:01:14
  * @LastEditors: 蔡鑫 1058360098@qq.com
  * @Description: 修改目录
  * @FilePath: \docsify\docs\_sidebar.md
@@ -221,4 +221,4 @@
   - [漂流记](articles/journey/j5.md)
   - [太和古洞记](articles/journey/j6.md)
   - [万博回程随记](articles/journey/j7.md)
-  - [20240720周末随记](articles/journey/j8.md)
+  - [周末随记](articles/journey/j8.md)
