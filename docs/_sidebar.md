@@ -157,6 +157,11 @@
   - [心旅](articles/poems/p103.md)
   - [因风而来](articles/poems/p104.md)
   - [扭曲的人](articles/poems/p105.md)
+  - [隔阂](articles/poems/p106.md)
+  - [祝楼下流浪的橘猫](articles/poems/p107.md)
+  - [再回首](articles/poems/p108.md)
+  - [牵牛花](articles/poems/p109.md)
+  - [栈道](articles/poems/p110.md)
 - 古灵精怪
   - [一期](articles/fun/f1.md)
   - [二期](articles/fun/f2.md)
@@ -222,3 +227,4 @@
   - [太和古洞记](articles/journey/j6.md)
   - [万博回程随记](articles/journey/j7.md)
   - [周末随记](articles/journey/j8.md)
+  - [佛山科技馆随记](articles/journey/j9.md)
