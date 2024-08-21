@@ -1,7 +1,7 @@
 <!--
  * @Author: caixin
  * @Date: 2021-06-10 10:06:40
- * @LastEditTime: 2024-08-01 14:01:14
+ * @LastEditTime: 2024-08-21 15:19:10
  * @LastEditors: 蔡鑫 1058360098@qq.com
  * @Description: 修改目录
  * @FilePath: \docsify\docs\_sidebar.md
@@ -162,6 +162,10 @@
   - [再回首](articles/poems/p108.md)
   - [牵牛花](articles/poems/p109.md)
   - [栈道](articles/poems/p110.md)
+  - [立秋](articles/poems/p111.md)
+  - [祛魅](articles/poems/p112.md)
+  - [悬浮](articles/poems/p113.md)
+  - [人生如戏](articles/poems/p114.md)
 - 古灵精怪
   - [一期](articles/fun/f1.md)
   - [二期](articles/fun/f2.md)
@@ -228,3 +232,9 @@
   - [万博回程随记](articles/journey/j7.md)
   - [周末随记](articles/journey/j8.md)
   - [佛山科技馆随记](articles/journey/j9.md)
+  - [欢迎小荷](articles/journey/j10.md)
+  - [梦幻水城记](articles/journey/j11.md)
+  - [小荷生日记](articles/journey/j12.md)
+  - [按摩记](articles/journey/j13.md)
+  - [搬家记](articles/journey/j14.md)
+  - [交通指挥记](articles/journey/j15.md)
