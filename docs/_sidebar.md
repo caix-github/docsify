@@ -1,7 +1,7 @@
 <!--
  * @Author: caixin
  * @Date: 2021-06-10 10:06:40
- * @LastEditTime: 2024-08-21 15:19:10
+ * @LastEditTime: 2024-09-06 15:36:41
  * @LastEditors: 蔡鑫 1058360098@qq.com
  * @Description: 修改目录
  * @FilePath: \docsify\docs\_sidebar.md
@@ -166,6 +166,12 @@
   - [祛魅](articles/poems/p112.md)
   - [悬浮](articles/poems/p113.md)
   - [人生如戏](articles/poems/p114.md)
+  - [过河](articles/poems/p115.md)
+  - [聆听](articles/poems/p116.md)
+  - [盘活](articles/poems/p117.md)
+  - [多一点与少一点](articles/poems/p118.md)
+  - [爱情的样子](articles/poems/p119.md)
+  - [湖](articles/poems/p120.md)
 - 古灵精怪
   - [一期](articles/fun/f1.md)
   - [二期](articles/fun/f2.md)
@@ -238,3 +244,4 @@
   - [按摩记](articles/journey/j13.md)
   - [搬家记](articles/journey/j14.md)
   - [交通指挥记](articles/journey/j15.md)
+  - [莲花山游记](articles/journey/j16.md)
