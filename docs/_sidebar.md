@@ -1,8 +1,8 @@
 <!--
  * @Author: caixin
  * @Date: 2021-06-10 10:06:40
- * @LastEditTime: 2024-09-06 15:36:41
- * @LastEditors: 蔡鑫 1058360098@qq.com
+ * @LastEditTime: 2024-09-28 15:19:50
+ * @LastEditors: caixin 1058360098@qq.com
  * @Description: 修改目录
  * @FilePath: \docsify\docs\_sidebar.md
 -->
@@ -172,6 +172,9 @@
   - [多一点与少一点](articles/poems/p118.md)
   - [爱情的样子](articles/poems/p119.md)
   - [湖](articles/poems/p120.md)
+  - [越井&蛙](articles/poems/p121.md)
+  - [破碎的记忆](articles/poems/p122.md)
+  - [老饕](articles/poems/p123.md)
 - 古灵精怪
   - [一期](articles/fun/f1.md)
   - [二期](articles/fun/f2.md)
@@ -207,6 +210,7 @@
   - [三十二期](articles/fun/f32.md)
   - [三十三期](articles/fun/f33.md)
   - [三十四期](articles/fun/f34.md)
+  - [三十五期](articles/fun/f35.md)
 - 阅读心得
   - [《程序员底层思维》读后感](articles/read/r1.md)
   - [《左耳听风》读后感](articles/read/r2.md)
@@ -228,6 +232,7 @@
   - [20240217饮食清单](articles/delicacy/d6.md)
   - [20240507饮食清单](articles/delicacy/d7.md)
   - [20240619饮食清单](articles/delicacy/d8.md)
+  - [20240928饮食清单](articles/delicacy/d9.md)
 - 户外随记
   - [团建之百草园](articles/journey/j1.md)
   - [古港之行](articles/journey/j2.md)
@@ -245,3 +250,10 @@
   - [搬家记](articles/journey/j14.md)
   - [交通指挥记](articles/journey/j15.md)
   - [莲花山游记](articles/journey/j16.md)
+  - [芒果湿地记](articles/journey/j17.md)
+  - [永庆坊游记](articles/journey/j18.md)
+  - [椰砖泡发记](articles/journey/j19.md)
+  - [播种记](articles/journey/j20.md)
+  - [80路](articles/journey/j21.md)
+  - [小薄荷破土记](articles/journey/j22.md)
+  - [胖灰猫记](articles/journey/j23.md)
