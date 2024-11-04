@@ -1,8 +1,8 @@
 <!--
  * @Author: caixin
  * @Date: 2021-06-10 10:06:40
- * @LastEditTime: 2024-09-28 15:19:50
- * @LastEditors: caixin 1058360098@qq.com
+ * @LastEditTime: 2024-11-01 11:06:26
+ * @LastEditors: 蔡鑫 1058360098@qq.com
  * @Description: 修改目录
  * @FilePath: \docsify\docs\_sidebar.md
 -->
@@ -175,6 +175,13 @@
   - [越井&蛙](articles/poems/p121.md)
   - [破碎的记忆](articles/poems/p122.md)
   - [老饕](articles/poems/p123.md)
+  - [雾霾](articles/poems/p124.md)
+  - [那道光](articles/poems/p125.md)
+  - [瘾](articles/poems/p126.md)
+  - [猎奇](articles/poems/p127.md)
+  - [最好的礼物](articles/poems/p128.md)
+  - [树叶](articles/poems/p129.md)
+  - [乌龙茶](articles/poems/p130.md)
 - 古灵精怪
   - [一期](articles/fun/f1.md)
   - [二期](articles/fun/f2.md)
@@ -211,6 +218,7 @@
   - [三十三期](articles/fun/f33.md)
   - [三十四期](articles/fun/f34.md)
   - [三十五期](articles/fun/f35.md)
+  - [三十六期](articles/fun/f36.md)
 - 阅读心得
   - [《程序员底层思维》读后感](articles/read/r1.md)
   - [《左耳听风》读后感](articles/read/r2.md)
@@ -257,3 +265,6 @@
   - [80路](articles/journey/j21.md)
   - [小薄荷破土记](articles/journey/j22.md)
   - [胖灰猫记](articles/journey/j23.md)
+  - [蛋糕DIY记](articles/journey/j24.md)
+  - [白鹅潭艺术馆游记](articles/journey/j25.md)
+  - [工作随谈](articles/journey/j26.md)
