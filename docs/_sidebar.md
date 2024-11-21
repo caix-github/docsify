@@ -211,6 +211,7 @@
   - [三十三期](articles/fun/f33.md)
   - [三十四期](articles/fun/f34.md)
   - [三十五期](articles/fun/f35.md)
+  - [三十六期](articles/fun/f36.md)
 - 阅读心得
   - [《程序员底层思维》读后感](articles/read/r1.md)
   - [《左耳听风》读后感](articles/read/r2.md)
