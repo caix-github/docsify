@@ -269,3 +269,4 @@
   - [蛋糕DIY记](articles/journey/j24.md)
   - [白鹅潭艺术馆游记](articles/journey/j25.md)
   - [工作随谈](articles/journey/j26.md)
+  - [婚礼记](articles/journey/j27.md)
