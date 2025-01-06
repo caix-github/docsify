@@ -1,11 +1,12 @@
 <!--
  * @Author: caixin
  * @Date: 2021-06-10 10:06:40
- * @LastEditTime: 2024-11-01 11:06:26
- * @LastEditors: 蔡鑫 1058360098@qq.com
+ * @LastEditTime: 2025-01-02 21:52:57
+ * @LastEditors: caix cai1058@qq.com
  * @Description: 修改目录
  * @FilePath: \docsify\docs\_sidebar.md
 -->
+
 - [首页](./README.md)
 <!-- - 生活点滴
   - [习惯建议](articles/life/l1.md)
@@ -270,3 +271,6 @@
   - [白鹅潭艺术馆游记](articles/journey/j25.md)
   - [工作随谈](articles/journey/j26.md)
   - [婚礼记](articles/journey/j27.md)
+  - [小榄记](articles/journey/j28.md)
+  - [自制寿司记](articles/journey/j29.md)
+  - [桂山岛记](articles/journey/j30.md)
