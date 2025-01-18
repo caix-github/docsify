@@ -1,7 +1,7 @@
 <!--
  * @Author: caixin
  * @Date: 2021-06-10 10:06:40
- * @LastEditTime: 2025-01-02 21:52:57
+ * @LastEditTime: 2025-01-18 15:10:27
  * @LastEditors: caix cai1058@qq.com
  * @Description: 修改目录
  * @FilePath: \docsify\docs\_sidebar.md
@@ -183,6 +183,21 @@
   - [最好的礼物](articles/poems/p128.md)
   - [树叶](articles/poems/p129.md)
   - [乌龙茶](articles/poems/p130.md)
+  - [补点书习](articles/poems/p131.md)
+  - [叶子花](articles/poems/p132.md)
+  - [冷空当道](articles/poems/p133.md)
+  - [望雨](articles/poems/p134.md)
+  - [阿安与阿太](articles/poems/p135.md)
+  - [麻雀](articles/poems/p136.md)
+  - [城市的局外人](articles/poems/p137.md)
+  - [与风同行](articles/poems/p138.md)
+  - [鞭策](articles/poems/p139.md)
+  - [午安](articles/poems/p140.md)
+  - [日光](articles/poems/p141.md)
+  - [足音跫然](articles/poems/p142.md)
+  - [跋涉](articles/poems/p143.md)
+  - [敏感](articles/poems/p144.md)
+  - [突围的光](articles/poems/p145.md)
 - 古灵精怪
   - [一期](articles/fun/f1.md)
   - [二期](articles/fun/f2.md)
@@ -275,3 +290,10 @@
   - [小榄记](articles/journey/j28.md)
   - [自制寿司记](articles/journey/j29.md)
   - [桂山岛记](articles/journey/j30.md)
+  - [自摇奶茶记](articles/journey/j31.md)
+  - [竹溪早茶记](articles/journey/j32.md)
+  - [不速之客](articles/journey/j33.md)
+  - [流花湖公园记](articles/journey/j34.md)
+  - [露营记](articles/journey/j35.md)
+  - [橙子布丁记](articles/journey/j36.md)
+  - [香薰制作记](articles/journey/j37.md)
