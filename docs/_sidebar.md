@@ -1,7 +1,7 @@
 <!--
  * @Author: caixin
  * @Date: 2021-06-10 10:06:40
- * @LastEditTime: 2025-03-03 18:36:03
+ * @LastEditTime: 2025-03-03 19:26:49
  * @LastEditors: caix cai1058@qq.com
  * @Description: 修改目录
  * @FilePath: \docsify\docs\_sidebar.md
@@ -248,6 +248,7 @@
   - [三十六期](articles/fun/f36.md)
   - [三十七期](articles/fun/f37.md)
   - [三十八期](articles/fun/f38.md)
+  - [三十九期](articles/fun/f39.md)
 - 阅读心得
   - [《程序员底层思维》读后感](articles/read/r1.md)
   - [《左耳听风》读后感](articles/read/r2.md)
@@ -270,6 +271,9 @@
   - [20240507饮食清单](articles/delicacy/d7.md)
   - [20240619饮食清单](articles/delicacy/d8.md)
   - [20240928饮食清单](articles/delicacy/d9.md)
+  - [20241027饮食清单](articles/delicacy/d10.md)
+  - [20241201饮食清单](articles/delicacy/d11.md)
+  - [20250201饮食清单](articles/delicacy/d12.md)
 - 户外随记
   - [团建之百草园](articles/journey/j1.md)
   - [古港之行](articles/journey/j2.md)
