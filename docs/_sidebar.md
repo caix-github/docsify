@@ -1,7 +1,7 @@
 <!--
  * @Author: caixin
  * @Date: 2021-06-10 10:06:40
- * @LastEditTime: 2025-01-18 15:10:27
+ * @LastEditTime: 2025-03-03 18:36:03
  * @LastEditors: caix cai1058@qq.com
  * @Description: 修改目录
  * @FilePath: \docsify\docs\_sidebar.md
@@ -198,6 +198,17 @@
   - [跋涉](articles/poems/p143.md)
   - [敏感](articles/poems/p144.md)
   - [突围的光](articles/poems/p145.md)
+  - [沉睡的海](articles/poems/p146.md)
+  - [落差](articles/poems/p147.md)
+  - [时间片](articles/poems/p148.md)
+  - [探路](articles/poems/p149.md)
+  - [天界的夏，人间的冬](articles/poems/p150.md)
+  - [留白](articles/poems/p151.md)
+  - [当休息成为罪犯](articles/poems/p152.md)
+  - [迷途](articles/poems/p153.md)
+  - [弃悲投乐](articles/poems/p154.md)
+  - [生活没有如果](articles/poems/p155.md)
+  - [惬意时光](articles/poems/p156.md)
 - 古灵精怪
   - [一期](articles/fun/f1.md)
   - [二期](articles/fun/f2.md)
@@ -297,3 +308,6 @@
   - [露营记](articles/journey/j35.md)
   - [橙子布丁记](articles/journey/j36.md)
   - [香薰制作记](articles/journey/j37.md)
+  - [看哪吒记](articles/journey/j38.md)
+  - [香港记](articles/journey/j39.md)
+  - [洲头咀公园记](articles/journey/j40.md)
