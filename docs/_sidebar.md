@@ -1,7 +1,7 @@
 <!--
  * @Author: caixin
  * @Date: 2021-06-10 10:06:40
- * @LastEditTime: 2025-03-03 19:26:49
+ * @LastEditTime: 2025-04-29 11:37:32
  * @LastEditors: caix cai1058@qq.com
  * @Description: 修改目录
  * @FilePath: \docsify\docs\_sidebar.md
@@ -209,6 +209,13 @@
   - [弃悲投乐](articles/poems/p154.md)
   - [生活没有如果](articles/poems/p155.md)
   - [惬意时光](articles/poems/p156.md)
+  - [高浓功利化](articles/poems/p157.md)
+  - [雨淋淋](articles/poems/p158.md)
+  - [定海神针](articles/poems/p159.md)
+  - [赶早的车厢](articles/poems/p160.md)
+  - [物之声](articles/poems/p161.md)
+  - [春分](articles/poems/p162.md)
+  - [初阳果实](articles/poems/p163.md)
 - 古灵精怪
   - [一期](articles/fun/f1.md)
   - [二期](articles/fun/f2.md)
@@ -249,6 +256,7 @@
   - [三十七期](articles/fun/f37.md)
   - [三十八期](articles/fun/f38.md)
   - [三十九期](articles/fun/f39.md)
+  - [四十期](articles/fun/f40.md)
 - 阅读心得
   - [《程序员底层思维》读后感](articles/read/r1.md)
   - [《左耳听风》读后感](articles/read/r2.md)
@@ -315,3 +323,8 @@
   - [看哪吒记](articles/journey/j38.md)
   - [香港记](articles/journey/j39.md)
   - [洲头咀公园记](articles/journey/j40.md)
+  - [周末的惊喜](articles/journey/j41.md)
+  - [那村庄](articles/journey/j42.md)
+  - [茶](articles/journey/j43.md)
+  - [古元美术馆](articles/journey/j44.md)
+  - [文博金湾](articles/journey/j45.md)
