@@ -216,6 +216,13 @@
   - [物之声](articles/poems/p161.md)
   - [春分](articles/poems/p162.md)
   - [初阳果实](articles/poems/p163.md)
+  - [风无痕](articles/poems/p164.md)
+  - [快节奏](articles/poems/p165.md)
+  - [帷幕](articles/poems/p166.md)
+  - [灯](articles/poems/p167.md)
+  - [美好时光](articles/poems/p168.md)
+  - [四季](articles/poems/p169.md)
+  - [近黄昏](articles/poems/p170.md)
 - 古灵精怪
   - [一期](articles/fun/f1.md)
   - [二期](articles/fun/f2.md)
@@ -328,3 +335,4 @@
   - [茶](articles/journey/j43.md)
   - [古元美术馆](articles/journey/j44.md)
   - [文博金湾](articles/journey/j45.md)
+  - [灰胖猫记二](articles/journey/j46.md)
