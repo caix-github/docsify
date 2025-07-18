@@ -1,7 +1,7 @@
 <!--
  * @Author: caixin
  * @Date: 2021-06-10 10:06:40
- * @LastEditTime: 2025-04-29 11:37:32
+ * @LastEditTime: 2025-07-18 11:46:07
  * @LastEditors: caix cai1058@qq.com
  * @Description: 修改目录
  * @FilePath: \docsify\docs\_sidebar.md
@@ -223,6 +223,17 @@
   - [美好时光](articles/poems/p168.md)
   - [四季](articles/poems/p169.md)
   - [近黄昏](articles/poems/p170.md)
+  - [风无痕](articles/poems/p171.md)
+  - [快节奏](articles/poems/p172.md)
+  - [帷幕](articles/poems/p173.md)
+  - [灯](articles/poems/p174.md)
+  - [美好时光](articles/poems/p175.md)
+  - [四季](articles/poems/p176.md)
+  - [近黄昏](articles/poems/p177.md)
+  - [皮里阳秋](articles/poems/p178.md)
+  - [人在旅途](articles/poems/p179.md)
+  - [求索](articles/poems/p180.md)
+  - [天黑黑](articles/poems/p181.md)
 - 古灵精怪
   - [一期](articles/fun/f1.md)
   - [二期](articles/fun/f2.md)
@@ -336,3 +347,5 @@
   - [古元美术馆](articles/journey/j44.md)
   - [文博金湾](articles/journey/j45.md)
   - [灰胖猫记二](articles/journey/j46.md)
+  - [大沙河湿地公园](articles/journey/j47.md)
+  - [自制百香果酸辣凤爪记](articles/journey/j48.md)
