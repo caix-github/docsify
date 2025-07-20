@@ -234,6 +234,10 @@
   - [人在旅途](articles/poems/p179.md)
   - [求索](articles/poems/p180.md)
   - [天黑黑](articles/poems/p181.md)
+  - [乌烟瘴气](articles/poems/p182.md)
+  - [云里雾里&悬浮](articles/poems/p183.md)
+  - [寻觅](articles/poems/p184.md)
+  - [一方净土](articles/poems/p185.md)
 - 古灵精怪
   - [一期](articles/fun/f1.md)
   - [二期](articles/fun/f2.md)
@@ -349,3 +353,5 @@
   - [灰胖猫记二](articles/journey/j46.md)
   - [大沙河湿地公园](articles/journey/j47.md)
   - [自制百香果酸辣凤爪记](articles/journey/j48.md)
+  - [姑婆山游记](articles/journey/j49.md)
+  - [黄姚古镇游记](articles/journey/j50.md)
