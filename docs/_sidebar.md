@@ -52,6 +52,7 @@
   - [webpack配置gzip压缩资源](articles/technical/t25.md)
   - [知识库机器人搭建](articles/technical/t26.md)
   - [LuckySheet（在线Excel）](articles/technical/t27.md)
+  - [处理 IDEA 控制台乱码](articles/technical/t28.md)
 - 走鑫散集
   - [我的挂耳咖啡](articles/poems/p1.md)
   - [茫茫然](articles/poems/p2.md)
