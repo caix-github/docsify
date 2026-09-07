@@ -281,6 +281,7 @@
   - [三十九期](articles/fun/f39.md)
   - [四十期](articles/fun/f40.md)
   - [四十一期](articles/fun/f41.md)
+  - [四十二期](articles/fun/f42.md)
 - 阅读心得
   - [《程序员底层思维》读后感](articles/read/r1.md)
   - [《左耳听风》读后感](articles/read/r2.md)
