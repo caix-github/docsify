@@ -357,4 +357,10 @@
   - [大沙河湿地公园](articles/journey/j47.md)
   - [自制百香果酸辣凤爪记](articles/journey/j48.md)
   - [姑婆山游记](articles/journey/j49.md)
-  - [黄姚古镇游记](articles/journey/j50.md)
+- 大院
+  - [大院](articles/yard/y1.md)
+  - [大院－风筝](articles/yard/y2.md)
+  - [大院－蜗牛](articles/yard/y3.md)
+  - [大院－狩猎游戏](articles/yard/y4.md)
+  - [大院－老热](articles/yard/y5.md)
+  - [大院-遥控汽车](articles/yard/y6.md)
