@@ -364,3 +364,13 @@
   - [大院－狩猎游戏](articles/yard/y4.md)
   - [大院－老热](articles/yard/y5.md)
   - [大院-遥控汽车](articles/yard/y6.md)
+- 世界通史
+  - [通史总览](articles/history/h1.md)
+  - [古埃及](articles/history/h2.md)
+  - [两河文明](articles/history/h3.md)
+  - [波斯帝国](articles/history/h4.md)
+  - [古希腊](articles/history/h5.md)
+  - [古罗马](articles/history/h6.md)
+  - [印度文明](articles/history/h7.md)
+  - [美洲文明](articles/history/h8.md)
+  - [阿拉伯文明](articles/history/h9.md)
