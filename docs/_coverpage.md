@@ -16,4 +16,4 @@
 
 <!-- 背景图片 -->
 
-![](//cdn.jsdelivr.net/gh/caix-github/pics-storage/background.jpg)
+![](//cdn.jsdmirror.com/gh/caix-github/pics-storage/background.jpg)

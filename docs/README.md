@@ -9,7 +9,7 @@
 # 名言
 ---
 
-![名言区](//cdn.jsdelivr.net/gh/caix-github/pics-storage/scenery.jpg)
+![名言区](//cdn.jsdmirror.com/gh/caix-github/pics-storage/scenery.jpg)
 
 >安静是一种很有力量的氛围，如装满液体的瓶子，摇晃过后，一旦静置就会出现沉淀物。人也如此，经过动乱后的冷静思考，可以凸现出真正的清醒。 —— 茨威格
 
