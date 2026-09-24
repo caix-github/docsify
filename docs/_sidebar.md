@@ -7,7 +7,6 @@
  * @FilePath: \docsify\docs\_sidebar.md
 -->
 
-- [首页](./README.md)
 <!-- - 生活点滴
   - [习惯建议](articles/life/l1.md)
   - [学习的理解](articles/life/l2.md)
@@ -24,6 +23,18 @@
   - [程序员成长路线](articles/life/l13.md)
   - [用最简单的方法养成读书的好习惯](articles/life/l14.md)
   - [前端专家离你只有一步之遥](articles/life/l15.md) -->
+
+- [首页](./README.md)
+- 世界通史
+  - [通史总览](articles/history/h1.md)
+  - [古埃及](articles/history/h2.md)
+  - [两河文明](articles/history/h3.md)
+  - [波斯帝国](articles/history/h4.md)
+  - [古希腊](articles/history/h5.md)
+  - [古罗马](articles/history/h6.md)
+  - [印度文明](articles/history/h7.md)
+  - [美洲文明](articles/history/h8.md)
+  - [阿拉伯文明](articles/history/h9.md)
 - 技术汇总
   - [JS函数](articles/technical/t1.md)
   - [JS 继承](articles/technical/t2.md)
@@ -374,3 +385,11 @@
   - [印度文明](articles/history/h7.md)
   - [美洲文明](articles/history/h8.md)
   - [阿拉伯文明](articles/history/h9.md)
+- 诗经选段
+  - [导读总览](articles/shijing/s1.md)
+  - [卫国讽刺](articles/shijing/s2.md)
+  - [多子多福](articles/shijing/s3.md)
+  - [爱情婚恋](articles/shijing/s4.md)
+  - [思念怀人](articles/shijing/s5.md)
+  - [弃妇悲歌](articles/shijing/s6.md)
+  - [杂咏拾英](articles/shijing/s7.md)
