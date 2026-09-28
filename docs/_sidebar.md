@@ -25,16 +25,6 @@
   - [前端专家离你只有一步之遥](articles/life/l15.md) -->
 
 - [首页](./README.md)
-- 世界通史
-  - [通史总览](articles/history/h1.md)
-  - [古埃及](articles/history/h2.md)
-  - [两河文明](articles/history/h3.md)
-  - [波斯帝国](articles/history/h4.md)
-  - [古希腊](articles/history/h5.md)
-  - [古罗马](articles/history/h6.md)
-  - [印度文明](articles/history/h7.md)
-  - [美洲文明](articles/history/h8.md)
-  - [阿拉伯文明](articles/history/h9.md)
 - 技术汇总
   - [JS函数](articles/technical/t1.md)
   - [JS 继承](articles/technical/t2.md)
