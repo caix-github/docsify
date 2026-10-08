@@ -5,22 +5,13 @@ name: Deploy to GitHub Pages
 #   - 手动：在 Actions 页面点 "Run workflow"，可指定任意分支/标签/commit
 on:
   push:
-    branches: [main, master, dev]
-    paths-ignore:
-      - '.gitignore'
-      - 'LICENSE'
-      - '.vscode/**'
+    branches: [main]
   workflow_dispatch:
     inputs:
       ref:
         description: '要部署的分支/标签/commit SHA（留空则用当前分支）'
         required: false
         default: ''
-      force:
-        description: '无文件变更时也强制部署（用于重新发布）'
-        required: false
-        default: false
-        type: boolean
 
 permissions:
   contents: read
@@ -59,6 +50,15 @@ jobs:
           touch docs/.nojekyll
           echo "✓ 站点文件检查通过"
           ls -la docs/
+
+      # 关键修复：清理本次运行可能残留的旧 artifact
+      # 避免 deploy-pages 报 "Multiple artifacts named github-pages" 错误
+      # （常见于 Re-run failed jobs 时上次上传的 artifact 未被清理）
+      - name: Delete existing github-pages artifacts
+        uses: actions/delete-artifact@v4
+        with:
+          name: github-pages
+        continue-on-error: true
 
       - name: Upload artifact
         uses: actions/upload-pages-artifact@v3
