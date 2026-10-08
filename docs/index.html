@@ -104,7 +104,11 @@
       loadSidebar: true,
       notFoundPage: true,
       auto2top: true,
-      subMaxLevel: 3,
+      // 移动端适配：窄屏下合并顶部导航到侧边栏，避免遮挡正文
+      mergeNavbar: true,
+      // 目录层级限制，避免侧边栏过长溢出/遮挡
+      maxLevel: 2,
+      subMaxLevel: 2,
       // 粘贴板
       copyCode: {
         buttonText : '点击复制',

@@ -29,3 +29,76 @@ section.cover .cover-main > p:last-child a .iconfont {
   font-family: 'Lobster', cursive;
 }
 
+/* ============ 移动端适配优化 ============ */
+
+/* 防止横向滚动：图片、表格、代码块自适应 */
+.markdown-section img {
+  max-width: 100%;
+  height: auto;
+  display: block;
+  margin: 1em auto;
+}
+
+.markdown-section table {
+  display: block;
+  width: 100%;
+  max-width: 100%;
+  overflow-x: auto;
+  -webkit-overflow-scrolling: touch;
+}
+
+.markdown-section pre,
+.markdown-section pre > code {
+  white-space: pre-wrap;
+  word-wrap: break-word;
+  overflow-x: auto;
+  max-width: 100%;
+}
+
+/* 移动端样式：窄屏下侧边栏与正文适配 */
+@media screen and (max-width: 768px) {
+  /* 正文留出顶部安全距离，避免被固定元素遮挡 */
+  .content {
+    padding-top: 16px !important;
+    padding-left: 16px !important;
+    padding-right: 16px !important;
+    max-width: 100vw;
+    overflow-x: hidden;
+  }
+
+  /* 关键修复：侧边栏 z-index 必须高于封面 .cover-main 的 100，
+     否则封面的 logo/标题会浮在侧边栏菜单之上，导致菜单项被遮挡无法点击 */
+  .sidebar {
+    z-index: 200 !important;
+    background-color: #fff !important;
+    width: 280px !important;
+    box-shadow: 2px 0 8px rgba(0, 0, 0, 0.15);
+  }
+
+  /* 侧边栏打开时隐藏封面，彻底避免任何重叠/遮挡 */
+  body.close .cover,
+  body.close section.cover {
+    display: none !important;
+  }
+
+  /* 侧边栏打开时锁定背景滚动 */
+  body.close {
+    overflow: hidden;
+  }
+
+  /* 取消移动端点击高亮 */
+  * {
+    -webkit-tap-highlight-color: transparent;
+  }
+
+  /* 标题字号适配 */
+  .markdown-section h1 { font-size: 1.6em; }
+  .markdown-section h2 { font-size: 1.35em; }
+  .markdown-section h3 { font-size: 1.15em; }
+
+  /* 表格在窄屏内可横向滚动 */
+  .markdown-section table {
+    font-size: 0.85em;
+  }
+}
+

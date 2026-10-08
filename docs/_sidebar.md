@@ -375,6 +375,17 @@
   - [印度文明](articles/history/h7.md)
   - [美洲文明](articles/history/h8.md)
   - [阿拉伯文明](articles/history/h9.md)
+- 中国通史
+  - [导读总览](articles/china/c1.md)
+  - [史前与传说时代](articles/china/c2.md)
+  - [夏商西周](articles/china/c3.md)
+  - [春秋战国](articles/china/c4.md)
+  - [秦汉](articles/china/c5.md)
+  - [三国两晋南北朝](articles/china/c6.md)
+  - [隋唐五代](articles/china/c7.md)
+  - [宋辽夏金元](articles/china/c8.md)
+  - [明清](articles/china/c9.md)
+  - [近现代](articles/china/c10.md)
 - 诗经选段
   - [导读总览](articles/shijing/s1.md)
   - [卫国讽刺](articles/shijing/s2.md)
