@@ -1,26 +1,32 @@
 name: Deploy to GitHub Pages
 
-# 触发条件：
-#   - 自动：推送到 main / master / dev 分支时
-#   - 手动：在 Actions 页面点 "Run workflow"，可指定任意分支/标签/commit
 on:
   push:
     branches: [main]
+    paths-ignore:
+      - '.gitignore'
+      - 'LICENSE'
+      - '.vscode/**'
   workflow_dispatch:
     inputs:
       ref:
         description: '要部署的分支/标签/commit SHA（留空则用当前分支）'
         required: false
         default: ''
+      force:
+        description: '无文件变更时也强制部署（用于重新发布）'
+        required: false
+        default: false
+        type: boolean
 
 permissions:
   contents: read
   pages: write
   id-token: write
 
-# 同一时间只允许一个部署任务，新任务自动取消旧任务
+# 并发控制：pages组，同一时间只允许1个运行，取消正在跑的旧任务
 concurrency:
-  group: pages
+  group: ${{ github.workflow }}-${{ github.ref }} # 【重点修改】按工作流+分支分组，不同分支互不干扰
   cancel-in-progress: true
 
 jobs:
@@ -31,7 +37,7 @@ jobs:
       url: ${{ steps.deployment.outputs.page_url }}
     steps:
       - name: Checkout
-        uses: actions/checkout@v4
+        uses: actions/checkout@v5 # 升级v5，消除Node20废弃警告
         with:
           ref: ${{ inputs.ref || github.ref }}
           fetch-depth: 1
@@ -46,19 +52,10 @@ jobs:
             exit 1
           fi
           # .nojekyll 用于禁用 GitHub Pages 的 Jekyll 处理
-          # 避免下划线开头的文件（如 _coverpage.md / _sidebar.md）被忽略
+          # 避免下划线开头的文件（如 _coverage.md / _sidebar.md）被忽略
           touch docs/.nojekyll
-          echo "✓ 站点文件检查通过"
+          echo "✅ 站点文件检查通过"
           ls -la docs/
-
-      # 关键修复：清理本次运行可能残留的旧 artifact
-      # 避免 deploy-pages 报 "Multiple artifacts named github-pages" 错误
-      # （常见于 Re-run failed jobs 时上次上传的 artifact 未被清理）
-      - name: Delete existing github-pages artifacts
-        uses: actions/delete-artifact@v4
-        with:
-          name: github-pages
-        continue-on-error: true
 
       - name: Upload artifact
         uses: actions/upload-pages-artifact@v3
