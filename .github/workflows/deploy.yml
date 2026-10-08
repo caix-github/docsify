@@ -1,15 +1,33 @@
 name: Deploy to GitHub Pages
 
+# 触发条件：
+#   - 自动：推送到 main / master / dev 分支时
+#   - 手动：在 Actions 页面点 "Run workflow"，可指定任意分支/标签/commit
 on:
   push:
     branches: [main, master, dev]
+    paths-ignore:
+      - '.gitignore'
+      - 'LICENSE'
+      - '.vscode/**'
   workflow_dispatch:
+    inputs:
+      ref:
+        description: '要部署的分支/标签/commit SHA（留空则用当前分支）'
+        required: false
+        default: ''
+      force:
+        description: '无文件变更时也强制部署（用于重新发布）'
+        required: false
+        default: false
+        type: boolean
 
 permissions:
   contents: read
   pages: write
   id-token: write
 
+# 同一时间只允许一个部署任务，新任务自动取消旧任务
 concurrency:
   group: pages
   cancel-in-progress: true
@@ -21,18 +39,32 @@ jobs:
       name: github-pages
       url: ${{ steps.deployment.outputs.page_url }}
     steps:
-      - uses: actions/checkout@v4
-
-      - name: Prepare site files
-        run: |
-          mkdir _site
-          cp -r index.html CNAME *.txt _site/
-
-      - uses: actions/configure-pages@v5
-
-      - uses: actions/upload-pages-artifact@v3
+      - name: Checkout
+        uses: actions/checkout@v4
         with:
-          path: _site
+          ref: ${{ inputs.ref || github.ref }}
+          fetch-depth: 1
 
-      - id: deployment
+      - name: Setup Pages
+        uses: actions/configure-pages@v5
+
+      - name: Verify site files
+        run: |
+          if [ ! -f "docs/index.html" ]; then
+            echo "::error::docs/index.html 不存在，部署中止"
+            exit 1
+          fi
+          # .nojekyll 用于禁用 GitHub Pages 的 Jekyll 处理
+          # 避免下划线开头的文件（如 _coverpage.md / _sidebar.md）被忽略
+          touch docs/.nojekyll
+          echo "✓ 站点文件检查通过"
+          ls -la docs/
+
+      - name: Upload artifact
+        uses: actions/upload-pages-artifact@v3
+        with:
+          path: docs/
+
+      - name: Deploy to GitHub Pages
+        id: deployment
         uses: actions/deploy-pages@v4
