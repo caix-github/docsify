@@ -406,6 +406,10 @@
   - [肯尼亚：本土觉醒与世界凝视](articles/world/w6.md)
   - [俄罗斯：苦难与救赎的文学高峰](articles/world/w7.md)
   - [美国：从殖民到多元的文学光谱](articles/world/w8.md)
+- 世界神话
+  - [希腊神话：神谱与英雄](articles/myth/m1.md)
+  - [苏美尔神话：人类最古老的神话体系](articles/myth/m2.md)
+  - [埃及神话：九柱神与永生信仰](articles/myth/m3.md)
 - 诗经选段
   - [导读总览](articles/shijing/s1.md)
   - [卫国讽刺](articles/shijing/s2.md)
