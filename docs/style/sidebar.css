@@ -1,1 +1,23 @@
-.sidebar-nav>ul{margin-left:20px}.sidebar-nav ul:not(.app-sub-sidebar)>li{position:relative;margin:0;cursor:pointer;margin-left:4px}.sidebar-nav ul:not(.app-sub-sidebar)>li::before{content:'';display:block;position:absolute;top:8px;left:-16px;height:14px;width:14px}.sidebar-nav ul:not(.app-sub-sidebar)>li.folder::before{background:center/contain no-repeat url(data:image/svg+xml;base64,PHN2ZyB0PSIxNTk4NTQ1MTE2ODQ2IiBjbGFzcz0iaWNvbiIgdmlld0JveD0iMCAwIDEwMjQgMTAyNCIgdmVyc2lvbj0iMS4xIiB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHAtaWQ9IjIyNTciCiAgd2lkdGg9IjIwMCIgaGVpZ2h0PSIyMDAiPgogIDxwYXRoIGQ9Ik00NDggMTI4aDUxMmE2NCA2NCAwIDAgMSA2NCA2NHYzMjBhNjQgNjQgMCAwIDEtNjQgNjRINDQ4YTY0IDY0IDAgMCAxLTY0LTY0VjE5MmE2NCA2NCAwIDAgMSA2NC02NHoiCiAgICBmaWxsPSIjNzliOGZmIiBwLWlkPSIyMjU4Ij48L3BhdGg+CiAgPHBhdGgKICAgIGQ9Ik02NCA2NGg0MDguNDQ4YTY0IDY0IDAgMCAxIDU3LjIxNiAzNS4zOTJsOTIuNjcyIDE4NS4yMTZhNjQgNjQgMCAwIDAgNTcuMjE2IDM1LjM5Mkg5NjBhNjQgNjQgMCAwIDEgNjQgNjR2NTEyYTY0IDY0IDAgMCAxLTY0IDY0SDY0YTY0IDY0IDAgMCAxLTY0LTY0VjEyOGE2NCA2NCAwIDAgMSA2NC02NHoiCiAgICBmaWxsPSIjNzliOGZmIiBwLWlkPSIyMjU5Ij48L3BhdGg+Cjwvc3ZnPgo=)}.sidebar-nav ul:not(.app-sub-sidebar)>li.file::before{background:center/contain no-repeat url(data:image/svg+xml;base64,PHN2ZyB0PSIxNTk4NTQ1NjIzOTMxIiBjbGFzcz0iaWNvbiIgdmlld0JveD0iMCAwIDEwMjQgMTAyNCIgdmVyc2lvbj0iMS4xIiB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHAtaWQ9IjgxNzMiCiAgd2lkdGg9IjIwMCIgaGVpZ2h0PSIyMDAiPgogIDxwYXRoCiAgICBkPSJNODEyLjggMjY4LjhsLTE4NS42LTE4NS42Yy0xMi44LTEyLjgtMjguOC0xOS4yLTQ0LjgtMTkuMkgyNTZjLTM1LjIgMC02NCAyOC44LTY0IDY0djc2OGMwIDM1LjIgMjguOCA2NCA2NCA2NGg1MTJjMzUuMiAwIDY0LTI4LjggNjQtNjRWMzEzLjZjMC0xNi02LjQtMzItMTkuMi00NC44eiBtLTcwLjQgMTkuMkg2MDhWMTUzLjZMNzQyLjQgMjg4ek03MDQgODk2SDI1NlYxMjhoMjg4djE2MGMwIDM1LjIgMjguOCA2NCA2NCA2NGgxNjB2NTQ0aC02NHoiCiAgICBwLWlkPSI4MTc0Ij48L3BhdGg+Cjwvc3ZnPgo=)}
+/* 侧边栏目录图标：实心 SVG，background-image 直接渲染（可靠），日/夜两套色由 html.dark-mode 切换
+   - folder 项（技术汇总等无链接目录）：标题是 li 的文本节点（无 a），图标做在 li::before（inline-block + vertical-align:middle 对齐文本）
+   - file 项（首页等有链接叶子）：图标做在 a::before + a flex 居中 */
+.sidebar-nav>ul{margin-left:20px}
+.sidebar-nav ul:not(.app-sub-sidebar)>li{position:relative;margin:0;cursor:pointer;margin-left:4px}
+
+/* folder 项：标题是文本节点无 a，图标做在 li::before inline-block 与文本同行 */
+.sidebar-nav ul:not(.app-sub-sidebar)>li.folder::before{
+  content:'';display:inline-block;vertical-align:middle;
+  width:14px;height:14px;margin-right:8px;
+  background-repeat:no-repeat;background-position:center;background-size:contain;
+  background-image:url(data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI+PHBhdGggZmlsbD0iIzI1Nzk4QSIgZD0iTTkuNSA0IDggNS41SDRjLTEuMSAwLTIgLjktMiAyVjE4YzAgMS4xLjkgMiAyIDJoMTZjMS4xIDAgMi0uOSAyLTJWNmMwLTEuMS0uOS0yLTItMkg5LjV6Ii8+PC9zdmc+);
+}
+html.dark-mode .sidebar-nav ul:not(.app-sub-sidebar)>li.folder::before{background-image:url(data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI+PHBhdGggZmlsbD0iIzRGQjhDOSIgZD0iTTkuNSA0IDggNS41SDRjLTEuMSAwLTIgLjktMiAyVjE4YzAgMS4xLjkgMiAyIDJoMTZjMS4xIDAgMi0uOSAyLTJWNmMwLTEuMS0uOS0yLTItMkg5LjV6Ii8+PC9zdmc+)}
+
+/* file 项：a flex 居中，图标在 a::before */
+.sidebar-nav ul:not(.app-sub-sidebar)>li.file>a{display:flex;align-items:center;gap:8px}
+.sidebar-nav ul:not(.app-sub-sidebar)>li.file>a::before{
+  content:'';display:block;flex:0 0 14px;height:14px;width:14px;
+  background-repeat:no-repeat;background-position:center;background-size:contain;
+  background-image:url(data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI+PHBhdGggZmlsbD0iIzI1Nzk4QSIgZmlsbC1ydWxlPSJldmVub2RkIiBkPSJNNiAyYy0xLjEgMC0yIC45LTIgMnYxNmMwIDEuMS45IDIgMiAyaDEyYzEuMSAwIDItLjkgMi0yVjhsLTYtNkg2em04IDEuNUwxOC41IDhIMTRWMy41ek02IDRoNnY2aDZ2MTBINlY0eiIvPjwvc3ZnPg==);
+}
+html.dark-mode .sidebar-nav ul:not(.app-sub-sidebar)>li.file>a::before{background-image:url(data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI+PHBhdGggZmlsbD0iIzRGQjhDOSIgZmlsbC1ydWxlPSJldmVub2RkIiBkPSJNNiAyYy0xLjEgMC0yIC45LTIgMnYxNmMwIDEuMS45IDIgMiAyaDEyYzEuMSAwIDItLjkgMi0yVjhsLTYtNkg2em04IDEuNUwxOC41IDhIMTRWMy41ek02IDRoNnY2aDZ2MTBINlY0eiIvPjwvc3ZnPg==)}
