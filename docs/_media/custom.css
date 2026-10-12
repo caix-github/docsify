@@ -60,17 +60,9 @@ section.cover .cover-main > p:last-child a .iconfont {
   max-width: 100%;
 }
 
-/* 移动端样式：窄屏下侧边栏与正文适配 */
-@media screen and (max-width: 768px) {
-  /* 正文留出顶部安全距离，避免被固定元素遮挡 */
-  .content {
-    padding-top: 16px !important;
-    padding-left: 16px !important;
-    padding-right: 16px !important;
-    max-width: 100vw;
-    overflow-x: hidden;
-  }
-
+/* 移动端样式：v5 的移动端断点是 640px（--_mobile-breakpoint），与 core 主题保持一致。
+   注意不要在 640-768px 区间应用移动端规则，否则会与 v5 的桌面布局冲突 */
+@media screen and (max-width: 640px) {
   /* v5：层级与宽度由 core 主题变量管理（--z-sidebar:60、--sidebar-width:280px），
      仅保留背景与阴影增强可读性 */
   .sidebar {
@@ -79,16 +71,15 @@ section.cover .cover-main > p:last-child a .iconfont {
   }
 
   /* 侧边栏打开时隐藏封面，彻底避免任何重叠/遮挡
-     （v5 用 .sidebar.show 表示打开状态，v4 的 body.close 已移除） */
+     （v5 用 .sidebar.show 表示打开状态，v4 的 body.close 已移除；
+     此规则仅限 640px 内的抽屉模式，桌面模式下 .sidebar.show 常驻不能隐藏封面） */
   .sidebar.show ~ .content :is(.cover, section.cover) {
     display: none !important;
   }
 
-  /* 侧边栏打开时锁定背景滚动（v5 移动端断点为 640px） */
-  @media screen and (max-width: 640px) {
-    body:has(.sidebar.show) {
-      overflow: hidden;
-    }
+  /* 侧边栏打开时锁定背景滚动 */
+  body:has(.sidebar.show) {
+    overflow: hidden;
   }
 
   /* 取消移动端点击高亮 */
