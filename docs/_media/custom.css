@@ -14,24 +14,48 @@ section.cover.has-mask .mask {
   width: 100%;
 }
 
-section.cover h1 .anchor span {
-  font-family: 'Lobster', cursive;
-  color: var(--theme-color);
+/* ============ 封面艺术字（星寻记） ============ */
+/* 标题：霞鹜文楷 + 青金渐变描色 + 星辉光晕（原 Lobster 规则为死代码：拉丁字体不覆盖中文且从未加载） */
+section.cover .cover-main h1 {
+  font-family: 'LXGW WenKai Screen', 'Noto Serif SC', 'KaiTi', serif;
+  font-weight: 400;
+  font-size: clamp(2.4em, 6.5vw, 3.4em);
+  letter-spacing: 0.2em;
+  padding-left: 0.2em; /* 补偿末字字距，保持视觉居中 */
+  background: linear-gradient(135deg, #17606f 0%, #25798A 42%, #e0a94a 100%) no-repeat;
+  -webkit-background-clip: text;
+  background-clip: text;
+  -webkit-text-fill-color: transparent;
+  filter: drop-shadow(0 1px 14px rgba(224, 169, 74, 0.32));
 }
 
-section.cover h2 .anchor span {
-  font-family: 'Lobster', cursive;
-  font-size: 24px;
-  color: var(--theme-color);
+/* 标语：文楷 + 大字距 + 金色星尘点缀 */
+section.cover .cover-main h3 {
+  font-family: 'LXGW WenKai Screen', 'Noto Serif SC', 'KaiTi', serif;
+  font-weight: 400;
+  font-size: 1.08em;
+  letter-spacing: 0.32em;
+  padding-left: 0.32em;
+  color: #2b6472;
+}
+section.cover .cover-main h3::before {
+  content: '✦ ';
+  color: #d8a542;
+  letter-spacing: 0;
+}
+section.cover .cover-main h3::after {
+  content: ' ✦';
+  color: #d8a542;
+  letter-spacing: 0;
 }
 
 section.cover .cover-main > p:last-child a .iconfont {
   font-size: 1em;
 }
 
-/* v5 将站名选择器从 .sidebar > h1 a 改为 .app-name-link */
+/* v5 将站名选择器从 .sidebar > h1 a 改为 .app-name-link；同步换成文楷保持品牌一致 */
 .sidebar .app-name-link {
-  font-family: 'Lobster', cursive;
+  font-family: 'LXGW WenKai Screen', 'Noto Serif SC', 'KaiTi', serif;
 }
 
 /* ============ 移动端适配优化 ============ */

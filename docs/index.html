@@ -34,7 +34,8 @@
   <!--  -->
   
   <!-- 引进字体 -->
-  <!-- <link href="https://fonts.googleapis.com/css?family=Lobster"rel="stylesheet"> -->
+  <!-- 封面/站名艺术字体：霞鹜文楷屏幕版（unicode-range 按需子集加载，font-display:swap 不阻塞渲染） -->
+  <link rel="stylesheet" href="https://cdn.jsdmirror.com/npm/lxgw-wenkai-screen-webfont@1.7.0/lxgwwenkaiscreen.css">
   <!--  -->
   
   <!-- 加载样式 -->
@@ -58,29 +59,20 @@
 </head>
 <body>
   <div id="app">
-    <!-- loading动画 -->
+    <!-- loading动画：星轨彗星 -->
     <div class="loader">
-      <span style="--i:1"></span>
-      <span style="--i:2"></span>
-      <span style="--i:3"></span>
-      <span style="--i:4"></span>
-      <span style="--i:5"></span>
-      <span style="--i:6"></span>
-      <span style="--i:7"></span>
-      <span style="--i:8"></span>
-      <span style="--i:9"></span>
-      <span style="--i:10"></span>
-      <span style="--i:11"></span>
-      <span style="--i:12"></span>
-      <span style="--i:13"></span>
-      <span style="--i:14"></span>
-      <span style="--i:15"></span>
-      <span style="--i:16"></span>
-      <span style="--i:17"></span>
-      <span style="--i:18"></span>
-      <span style="--i:19"></span>
-      <span style="--i:20"></span>
-      <div class="rocket"></div>
+      <div class="loader-stage">
+        <div class="orbit o1"><i></i></div>
+        <div class="orbit o2"><i></i></div>
+        <div class="core"></div>
+        <b class="s1"></b>
+        <b class="s2"></b>
+        <b class="s3"></b>
+        <b class="s4"></b>
+        <b class="s5"></b>
+        <b class="s6"></b>
+      </div>
+      <p class="loader-name">星 寻 记</p>
     </div>
     <!--  -->
   </div>
