@@ -1,6 +1,10 @@
-section.cover .cover-main {
-  z-index: 100;
+/* Docsify v5：主题色通过 CSS 变量控制（原 themeColor 配置已在 v5 弃用） */
+:root {
+  --theme-color: #25798A;
 }
+
+/* v5 说明：cover-main 的 z-index 由 core 主题层级变量体系管理
+   （--z-sidebar:60 > --z-cover:10），不再需要 v4 时代的 z-index:100 hack */
 section.cover.has-mask .mask {
   background-color: #fff;
   opacity: .1!important;
@@ -25,7 +29,8 @@ section.cover .cover-main > p:last-child a .iconfont {
   font-size: 1em;
 }
 
-.sidebar > h1 a {
+/* v5 将站名选择器从 .sidebar > h1 a 改为 .app-name-link */
+.sidebar .app-name-link {
   font-family: 'Lobster', cursive;
 }
 
@@ -66,24 +71,24 @@ section.cover .cover-main > p:last-child a .iconfont {
     overflow-x: hidden;
   }
 
-  /* 关键修复：侧边栏 z-index 必须高于封面 .cover-main 的 100，
-     否则封面的 logo/标题会浮在侧边栏菜单之上，导致菜单项被遮挡无法点击 */
+  /* v5：层级与宽度由 core 主题变量管理（--z-sidebar:60、--sidebar-width:280px），
+     仅保留背景与阴影增强可读性 */
   .sidebar {
-    z-index: 200 !important;
     background-color: #fff !important;
-    width: 280px !important;
     box-shadow: 2px 0 8px rgba(0, 0, 0, 0.15);
   }
 
-  /* 侧边栏打开时隐藏封面，彻底避免任何重叠/遮挡 */
-  body.close .cover,
-  body.close section.cover {
+  /* 侧边栏打开时隐藏封面，彻底避免任何重叠/遮挡
+     （v5 用 .sidebar.show 表示打开状态，v4 的 body.close 已移除） */
+  .sidebar.show ~ .content :is(.cover, section.cover) {
     display: none !important;
   }
 
-  /* 侧边栏打开时锁定背景滚动 */
-  body.close {
-    overflow: hidden;
+  /* 侧边栏打开时锁定背景滚动（v5 移动端断点为 640px） */
+  @media screen and (max-width: 640px) {
+    body:has(.sidebar.show) {
+      overflow: hidden;
+    }
   }
 
   /* 取消移动端点击高亮 */

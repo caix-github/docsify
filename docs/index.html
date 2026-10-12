@@ -21,8 +21,11 @@
   <!---->
 
   <!-- 样式文件 -->
-  <!-- <link rel="stylesheet" href="//cdn.jsdmirror.com/npm/docsify@4/lib/themes/vue.css"> -->
-  <link rel="stylesheet" href="./style/vue.css"> 
+  <!-- Docsify v5 主题分两层：core.min.css 为核心布局主题（必需），vue.css 为 v4 视觉风格附加层 -->
+  <!-- <link rel="stylesheet" href="//cdn.jsdmirror.com/npm/docsify@5.0.0/dist/themes/core.min.css"> -->
+  <link rel="stylesheet" href="./style/core.min.css">
+  <!-- <link rel="stylesheet" href="//cdn.jsdmirror.com/npm/docsify@5.0.0/dist/themes/addons/vue.min.css"> -->
+  <link rel="stylesheet" href="./style/vue.css">
   <!-- Theme: Simple  -->
   <!-- <link rel="stylesheet" href="https://cdn.jsdmirror.com/npm/docsify-themeable@0/dist/css/theme-simple.css"> -->
   <!-- Theme: Simple Dark -->
@@ -98,7 +101,7 @@
           textColor: "var(--theme-color)"
         }
       },
-      themeColor: '#25798A',
+      // v5 已弃用 themeColor 配置，主题色改由 custom.css 中的 --theme-color 变量控制
       coverpage: true,
       loadNavbar: false,
       loadSidebar: true,
@@ -132,9 +135,9 @@
     }
   </script>
 
-  <!-- Docsify v4 -->
-  <!-- <script src="//cdn.jsdmirror.com/npm/docsify@4.13.1"></script> -->
-  <script src="./js/docsify-v4.js"></script>
+  <!-- Docsify v5 -->
+  <!-- <script src="//cdn.jsdmirror.com/npm/docsify@5.0.0/dist/docsify.min.js"></script> -->
+  <script src="./js/docsify-v5.js"></script>
   <!-- 粘贴板 -->
   <!-- <script src="//cdn.jsdmirror.com/npm/docsify-copy-code"></script> -->
   <script src="./js/docsify-copy-code.js"></script>
@@ -178,8 +181,8 @@
   <!--  -->
 
   <!-- 图片缩放 -->
-  <!-- <script src="//cdn.jsdmirror.com/npm/docsify/lib/plugins/zoom-image.min.js"></script> -->
-  <script src="./js/zoom-image.min.js"></script>
+  <!-- <script src="//cdn.jsdmirror.com/npm/docsify@5.0.0/dist/plugins/zoom-image.min.js"></script> -->
+  <script src="./js/zoom-image-v5.min.js"></script>
   <!--  -->
 
   <!-- 字数统计 -->
@@ -188,8 +191,8 @@
   <!--  -->
 
   <!-- 搜索框 -->
-  <!-- <script src="//unpkg.com/docsify/lib/plugins/search.js"></script> -->
-  <script src="./js/search.js"></script>
+  <!-- <script src="//cdn.jsdmirror.com/npm/docsify@5.0.0/dist/plugins/search.min.js"></script> -->
+  <script src="./js/search-v5.js"></script>
   <!--  -->
 
   <!-- 夜间模式 -->
