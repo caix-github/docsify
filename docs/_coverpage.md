@@ -8,7 +8,7 @@
 -->
 <!-- _coverpage.md -->
 
-<img width="180px" style="border-radius: 50%" bor src="./assets/logo.jpg"/>
+<img width="180px" style="border-radius: 50%" bor src="./assets/logo.png"/>
 
 <h1>星寻记</h1>
 
