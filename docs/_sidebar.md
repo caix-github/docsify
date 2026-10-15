@@ -386,6 +386,8 @@
   - [印度文明](articles/history/h7.md)
   - [美洲文明](articles/history/h8.md)
   - [阿拉伯文明](articles/history/h9.md)
+  - [布拉格之春与米兰·昆德拉](articles/history/h10.md)
+  - [西班牙内战与佛朗哥：海明威《丧钟为谁而鸣》](articles/history/h11.md)
 - 中国通史
   - [导读总览](articles/china/c1.md)
   - [史前与传说时代](articles/china/c2.md)
