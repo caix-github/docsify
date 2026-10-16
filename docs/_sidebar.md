@@ -55,6 +55,7 @@
   - [LuckySheet（在线Excel）](articles/technical/t27.md)
   - [处理 IDEA 控制台乱码](articles/technical/t28.md)
   - [Xshell 常用命令与前端部署示例](articles/technical/t29.md)
+  - [Win11 配置 SSH 免密登录 Linux 完整教程](articles/technical/t30.md)
 - 走鑫散集
   - [我的挂耳咖啡](articles/poems/p1.md)
   - [茫茫然](articles/poems/p2.md)
