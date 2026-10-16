@@ -54,6 +54,7 @@
   - [知识库机器人搭建](articles/technical/t26.md)
   - [LuckySheet（在线Excel）](articles/technical/t27.md)
   - [处理 IDEA 控制台乱码](articles/technical/t28.md)
+  - [Xshell 常用命令与前端部署示例](articles/technical/t29.md)
 - 走鑫散集
   - [我的挂耳咖啡](articles/poems/p1.md)
   - [茫茫然](articles/poems/p2.md)
@@ -306,6 +307,7 @@
   - [《断舍离》读后感](articles/read/r20.md)
   - [《100个成语中的古代生活史》读后感](articles/read/r21.md)
   - [《活出心花怒放的人生》读后感](articles/read/r22.md)
+  - [《了不起的盖茨比》读后感](articles/read/r23.md)
 - 美食天地
   - [20220920饮食清单](articles/delicacy/d1.md)
   - [20221230饮食清单](articles/delicacy/d2.md)
