@@ -315,6 +315,11 @@
   - [《晚熟的人》读后感](articles/read/r27.md)
   - [《许三观卖血记》读后感](articles/read/r28.md)
   - [《城南旧事》观后感](articles/read/r29.md)
+  - [《不被大风吹倒》读后感](articles/read/r30.md)
+  - [《安娜·卡列宁娜》观后感](articles/read/r31.md)
+  - [《夜晚的潜水艇》读后感](articles/read/r32.md)
+  - [《瓦尔登湖》读后感](articles/read/r33.md)
+  - [《茶花女》读后感](articles/read/r34.md)
 - 美食天地
   - [20220920饮食清单](articles/delicacy/d1.md)
   - [20221230饮食清单](articles/delicacy/d2.md)
@@ -387,6 +392,7 @@
   - [大院-遥控汽车](articles/yard/y6.md)
 - 世界通史
   - [通史总览](articles/history/h1.md)
+  - [世界历史学习提纲](articles/history/h12.md)
   - [古埃及](articles/history/h2.md)
   - [两河文明](articles/history/h3.md)
   - [波斯帝国](articles/history/h4.md)
