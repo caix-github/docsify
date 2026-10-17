@@ -185,6 +185,25 @@ section.cover .cover-main > p:last-child a .iconfont {
 
 /* ============ 移动端适配优化 ============ */
 
+/* 侧栏长文章名单行省略，完整标题保留在链接 title 属性中 */
+.sidebar .sidebar-nav li.file > a.page-link {
+  position: relative;
+  display: block;
+  max-width: 100%;
+  min-width: 0;
+  overflow: hidden;
+  padding-left: 22px;
+  text-overflow: ellipsis;
+  white-space: nowrap;
+}
+
+.sidebar .sidebar-nav li.file > a.page-link::before {
+  position: absolute;
+  top: 50%;
+  left: 0;
+  transform: translateY(-50%);
+}
+
 /* 防止横向滚动：图片、表格、代码块自适应 */
 .markdown-section img {
   max-width: 100%;
