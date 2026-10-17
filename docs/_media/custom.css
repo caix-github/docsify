@@ -238,6 +238,11 @@ section.cover .cover-main > p:last-child a .iconfont {
     box-shadow: 2px 0 8px rgba(0, 0, 0, 0.15);
   }
 
+  /* 窄屏由侧栏目录提供章节导航，隐藏悬浮目录避免遮挡正文 */
+  aside.toc-nav {
+    display: none;
+  }
+
   /* 侧边栏打开时隐藏封面，彻底避免任何重叠/遮挡
      （v5 用 .sidebar.show 表示打开状态，v4 的 body.close 已移除；
      此规则仅限 640px 内的抽屉模式，桌面模式下 .sidebar.show 常驻不能隐藏封面） */
