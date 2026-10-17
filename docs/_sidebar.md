@@ -309,6 +309,12 @@
   - [《100个成语中的古代生活史》读后感](articles/read/r21.md)
   - [《活出心花怒放的人生》读后感](articles/read/r22.md)
   - [《了不起的盖茨比》读后感](articles/read/r23.md)
+  - [《西瓜船》读后感](articles/read/r24.md)
+  - [《杀死一只知更鸟》观后感](articles/read/r25.md)
+  - [《在细雨中呼喊》读后感](articles/read/r26.md)
+  - [《晚熟的人》读后感](articles/read/r27.md)
+  - [《许三观卖血记》读后感](articles/read/r28.md)
+  - [《城南旧事》观后感](articles/read/r29.md)
 - 美食天地
   - [20220920饮食清单](articles/delicacy/d1.md)
   - [20221230饮食清单](articles/delicacy/d2.md)
