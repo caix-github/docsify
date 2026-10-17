@@ -1,7 +1,7 @@
 <!--
  * @Author: caixin
  * @Date: 2021-06-10 10:06:40
- * @LastEditTime: 2025-07-18 11:46:07
+ * @LastEditTime: 2026-10-17 22:48:37
  * @LastEditors: caix cai1058@qq.com
  * @Description: 修改目录
  * @FilePath: \docsify\docs\_sidebar.md
@@ -401,8 +401,6 @@
   - [印度文明](articles/history/h7.md)
   - [美洲文明](articles/history/h8.md)
   - [阿拉伯文明](articles/history/h9.md)
-  - [布拉格之春与米兰·昆德拉](articles/history/h10.md)
-  - [西班牙内战与佛朗哥：海明威《丧钟为谁而鸣》](articles/history/h11.md)
 - 中国通史
   - [导读总览](articles/china/c1.md)
   - [史前与传说时代](articles/china/c2.md)
@@ -451,3 +449,5 @@
 - 拓展阅读
   - [孙中山：从兴中会到国民革命的先行者](articles/expand/e1.md)
   - [圣经：从创世到先知的叙事体系](articles/expand/e2.md)
+  - [布拉格之春与米兰·昆德拉](articles/history/h10.md)
+  - [西班牙内战与佛朗哥：海明威《丧钟为谁而鸣》](articles/history/h11.md)
