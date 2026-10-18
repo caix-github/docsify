@@ -1,7 +1,7 @@
 <!--
  * @Author: caixin
  * @Date: 2021-06-10 10:06:40
- * @LastEditTime: 2026-10-17 22:48:37
+ * @LastEditTime: 2026-10-18 11:41:43
  * @LastEditors: caix cai1058@qq.com
  * @Description: 修改目录
  * @FilePath: \docsify\docs\_sidebar.md
@@ -383,6 +383,12 @@
   - [大沙河湿地公园](articles/journey/j47.md)
   - [自制百香果酸辣凤爪记](articles/journey/j48.md)
   - [姑婆山游记](articles/journey/j49.md)
+- 博游记
+  - [海事博物馆参观记](articles/museum/m1.md)
+  - [南汉二陵博物馆参观记](articles/museum/m2.md)
+  - [华南农业博物馆参观记](articles/museum/m3.md)
+  - [广东省博物馆参观记](articles/museum/m4.md)
+  - [广东中医药博物馆参观记](articles/museum/m5.md)
 - 大院
   - [大院](articles/yard/y1.md)
   - [大院－风筝](articles/yard/y2.md)
@@ -393,14 +399,20 @@
 - 世界通史
   - [通史总览](articles/history/h1.md)
   - [世界历史学习提纲](articles/history/h12.md)
-  - [古埃及](articles/history/h2.md)
+  - [史前时代与早期文明](articles/history/h14.md)
   - [两河文明](articles/history/h3.md)
-  - [波斯帝国](articles/history/h4.md)
+  - [古埃及](articles/history/h2.md)
+  - [印度文明](articles/history/h7.md)
   - [古希腊](articles/history/h5.md)
   - [古罗马](articles/history/h6.md)
-  - [印度文明](articles/history/h7.md)
+  - [波斯帝国](articles/history/h4.md)
   - [美洲文明](articles/history/h8.md)
   - [阿拉伯文明](articles/history/h9.md)
+  - [中世纪的欧洲与亚洲](articles/history/h15.md)
+  - [文艺复兴与新航路开辟](articles/history/h16.md)
+  - [欧美资产阶级革命与近代国家](articles/history/h17.md)
+  - [工业革命与资本主义扩张](articles/history/h18.md)
+  - [世界大战、冷战与当代世界](articles/history/h13.md)
 - 中国通史
   - [导读总览](articles/china/c1.md)
   - [史前与传说时代](articles/china/c2.md)

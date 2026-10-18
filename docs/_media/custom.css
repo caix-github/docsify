@@ -3,6 +3,10 @@
   --theme-color: #25798A;
 }
 
+aside.toc-nav.is-hidden {
+  display: none;
+}
+
 /* v5 说明：cover-main 的 z-index 由 core 主题层级变量体系管理
    （--z-sidebar:60 > --z-cover:10），不再需要 v4 时代的 z-index:100 hack */
 section.cover.has-mask .mask {

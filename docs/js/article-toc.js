@@ -40,6 +40,14 @@
         content.parentNode.insertBefore(toc, content);
       }
 
+      var cover = document.querySelector("section.cover");
+      var isCoverPage = cover && window.getComputedStyle(cover).display !== "none";
+      toc.classList.toggle("is-hidden", Boolean(isCoverPage));
+      if (isCoverPage) {
+        toc.replaceChildren();
+        return;
+      }
+
       var items = Array.prototype.map.call(
         article.querySelectorAll("h2, h3"),
         createTocLink
