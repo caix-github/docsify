@@ -16,6 +16,12 @@ html.dark-mode{
   --strong-color:#d7dee1;
   --theme-color:#4fb8c9;
 }
+html.dark-mode .page_toc div{border-left-color:#454b4e}
+html.dark-mode .page_toc div[class^=lv] a,
+html.dark-mode .page_toc div[class^=lv] a span{color:var(--color-text)}
+html.dark-mode .page_toc div[class^=lv] a:hover span,
+html.dark-mode .page_toc div.active a span{color:var(--theme-color)}
+@media only screen and (max-width:1299px){html.dark-mode aside.toc-nav{background:var(--color-bg)}}
 
 /* ===== 悬浮玻璃圆形切换按钮（桌面醒目版：常驻可见+主题色描边+轻阴影；触屏保持低调） ===== */
 #dark_mode{position:fixed;right:14px;bottom:14px;z-index:55}
