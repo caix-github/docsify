@@ -238,7 +238,7 @@ section.cover .cover-main > p:last-child a .iconfont {
   /* v5：层级与宽度由 core 主题变量管理（--z-sidebar:60、--sidebar-width:280px），
      仅保留背景与阴影增强可读性 */
   .sidebar {
-    background-color: #fff !important;
+    background-color: var(--docsify_dark_mode_bg) !important;
     box-shadow: 2px 0 8px rgba(0, 0, 0, 0.15);
   }
 

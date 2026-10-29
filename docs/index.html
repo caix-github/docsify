@@ -77,6 +77,19 @@
     </div>
     <!--  -->
   </div>
+  <button id="cheer-button" type="button" aria-label="给自己点赞加油" title="给自己点赞加油">
+    <svg viewBox="0 0 24 24" aria-hidden="true" focusable="false">
+      <path d="M12 20.2 4.7 13A4.8 4.8 0 0 1 11.5 6.2L12 6.7l.5-.5A4.8 4.8 0 0 1 19.3 13L12 20.2Z" />
+      <path d="M12 2.2v1.6M3.3 5.2l1.1 1.1m15.2-1.1-1.1 1.1M2 11h1.6m16.8 0H22" />
+    </svg>
+  </button>
+  <span id="cheer-status" role="status" aria-live="polite"></span>
+  <button id="fullscreen-toggle" type="button" aria-label="进入全屏" title="进入全屏" aria-pressed="false">
+    <svg viewBox="0 0 24 24" aria-hidden="true" focusable="false">
+      <path d="M8 3H5a2 2 0 0 0-2 2v3m13-5h3a2 2 0 0 1 2 2v3M3 16v3a2 2 0 0 0 2 2h3m13-5v3a2 2 0 0 1-2 2h-3" />
+    </svg>
+  </button>
+  <span id="fullscreen-status" role="status" aria-live="polite"></span>
   <script>
     window.$docsify = {
       name: '星寻记', // 网站名称
@@ -197,5 +210,9 @@
 
   <!-- 侧边栏目录展开和折叠 -->
   <script src="./js/sidebar.js"></script>
+  <!-- 全屏切换 -->
+  <script src="./js/fullscreen.js"></script>
+  <!-- 点赞加油 -->
+  <script src="./js/cheer.js"></script>
 </body>
 </html>
