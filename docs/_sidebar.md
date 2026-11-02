@@ -450,6 +450,7 @@
   - [斯拉夫神话：雷神佩伦与自然精灵](articles/myth/m14.md)
   - [约鲁巴神话：奥里莎与伊法占卜](articles/myth/m15.md)
   - [世界神话总览：十五种信仰的共性与差异](articles/myth/m16.md)
+  - [世界神话补遗：罗马、安第斯与其他区域传统](articles/myth/m17.md)
 - 诗经选段
   - [导读总览](articles/shijing/s1.md)
   - [卫国讽刺](articles/shijing/s2.md)
