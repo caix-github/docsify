@@ -84,6 +84,13 @@
     </svg>
   </button>
   <span id="cheer-status" role="status" aria-live="polite"></span>
+  <button id="music-player-toggle" type="button" aria-label="播放音乐" title="播放音乐" aria-pressed="false">
+    <svg viewBox="0 0 24 24" aria-hidden="true" focusable="false">
+      <path class="music-icon-play" d="M7 4.5v15l12-7.5z" />
+      <path class="music-icon-pause" d="M7 5h4v14H7zm6 0h4v14h-4z" />
+    </svg>
+  </button>
+  <audio id="music-player-audio" preload="none" loop></audio>
   <button id="fullscreen-toggle" type="button" aria-label="进入全屏" title="进入全屏" aria-pressed="false">
     <svg viewBox="0 0 24 24" aria-hidden="true" focusable="false">
       <path d="M8 3H5a2 2 0 0 0-2 2v3m13-5h3a2 2 0 0 1 2 2v3M3 16v3a2 2 0 0 0 2 2h3m13-5v3a2 2 0 0 1-2 2h-3" />
@@ -214,5 +221,7 @@
   <script src="./js/fullscreen.js"></script>
   <!-- 点赞加油 -->
   <script src="./js/cheer.js"></script>
+  <!-- 音乐播放器 -->
+  <script src="./js/music-player.js"></script>
 </body>
 </html>
