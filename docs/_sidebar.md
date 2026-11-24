@@ -451,6 +451,17 @@
   - [约鲁巴神话：奥里莎与伊法占卜](articles/myth/m15.md)
   - [世界神话总览：十五种信仰的共性与差异](articles/myth/m16.md)
   - [世界神话补遗：罗马、安第斯与其他区域传统](articles/myth/m17.md)
+- 童话
+  - [格林童话：民间童话的基石](articles/fairytale/ft1.md)
+  - [安徒生童话：诗意的文人童话](articles/fairytale/ft2.md)
+  - [伊索寓言：西方寓言的智慧](articles/fairytale/ft3.md)
+  - [黑塞童话：写给成人的灵魂寓言](articles/fairytale/ft4.md)
+  - [《一千零一夜》：阿拉伯民间故事的瑰宝](articles/fairytale/ft6.md)
+  - [拉·封丹与克雷洛夫：欧洲诗体寓言的双璧](articles/fairytale/ft7.md)
+  - [豪夫与王尔德：浪漫与唯美的文人童话](articles/fairytale/ft8.md)
+  - [罗大里童话：想象与游戏的儿童文学](articles/fairytale/ft9.md)
+  - [现代经典童话：友谊、责任与生命的寓言](articles/fairytale/ft10.md)
+  - [不同类型童话总结](articles/fairytale/ft5.md)
 - 诗经选段
   - [导读总览](articles/shijing/s1.md)
   - [卫国讽刺](articles/shijing/s2.md)
