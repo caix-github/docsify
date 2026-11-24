@@ -24,9 +24,8 @@ permissions:
   pages: write
   id-token: write
 
-# 并发控制：pages组，同一时间只允许1个运行，取消正在跑的旧任务
 concurrency:
-  group: ${{ github.workflow }}-${{ github.ref }} # 【重点修改】按工作流+分支分组，不同分支互不干扰
+  group: pages
   cancel-in-progress: true
 
 jobs:
@@ -37,30 +36,50 @@ jobs:
       url: ${{ steps.deployment.outputs.page_url }}
     steps:
       - name: Checkout
-        uses: actions/checkout@v5 # 升级v5，消除Node20废弃警告
+        uses: actions/checkout@v5
         with:
           ref: ${{ inputs.ref || github.ref }}
           fetch-depth: 1
 
-      - name: Setup Pages
-        uses: actions/configure-pages@v5
+      - name: Setup Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: 20
+          cache: 'npm'
+
+      - name: Cache node modules
+        uses: actions/cache@v4
+        with:
+          path: ~/.npm
+          key: ${{ runner.os }}-node-${{ hashFiles('**/package-lock.json') }}
+          restore-keys: |
+            ${{ runner.os }}-node-
+
+      - name: Clean old build folder
+        run: |
+          rm -rf docs/_site
+          echo "✅ 旧打包目录 docs/_site 已清空"
+
+      - name: Install docsify-cli
+        run: npm install -g docsify-cli
+
+      - name: Build static html
+        run: docsify build docs --output docs/_site
 
       - name: Verify site files
         run: |
-          if [ ! -f "docs/index.html" ]; then
-            echo "::error::docs/index.html 不存在，部署中止"
+          if [ ! -f "docs/_site/index.html" ]; then
+            echo "::error::打包后的 docs/_site/index.html 不存在，部署中止"
             exit 1
           fi
-          # .nojekyll 用于禁用 GitHub Pages 的 Jekyll 处理
-          # 避免下划线开头的文件（如 _coverage.md / _sidebar.md）被忽略
-          touch docs/.nojekyll
+          touch docs/_site/.nojekyll
           echo "✅ 站点文件检查通过"
-          ls -la docs/
+          ls -la docs/_site/
 
       - name: Upload artifact
         uses: actions/upload-pages-artifact@v3
         with:
-          path: docs/
+          path: docs/_site
 
       - name: Deploy to GitHub Pages
         id: deployment
