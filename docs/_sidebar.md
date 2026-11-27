@@ -440,6 +440,7 @@
 - 世界神话
   - [希腊神话：神谱与英雄](articles/myth/m1.md)
   - [苏美尔神话：人类最古老的神话体系](articles/myth/m2.md)
+  - [迦南神话：大衮、巴力与乌加里特诸神](articles/myth/m18.md)
   - [埃及神话：九柱神与永生信仰](articles/myth/m3.md)
   - [玛雅神话：羽蛇神与末日轮回](articles/myth/m4.md)
   - [毛利神话：天地分离与半神毛伊](articles/myth/m5.md)
